@@ -1,0 +1,621 @@
+Order_ID,Order_Date,Customer_ID,Product_Name,Category,Region,City,Quantity,Unit_Price,Unit_Cost,Revenue,Cost,Profit,Profit_Margin_%,Payment_Method,Order_Status
+ORD1001,2023-10-07,CUST1217,Wireless Earbuds,Electronics,East,Bhubaneswar,2,1212.97,685.78,2425.94,1371.56,1054.38,43.46,Credit Card,Cancelled
+ORD1002,2023-04-12,CUST1113,Wireless Earbuds,Electronics,North,Chandigarh,2,2822.56,1563.64,5645.12,3127.28,2517.84,44.6,Cash on Delivery,Returned
+ORD1003,2023-06-22,CUST1195,Fiction Novel,Books,North,Chandigarh,4,403.15,130.35,1612.6,521.4,1091.2,67.67,Credit Card,Delivered
+ORD1004,2023-07-13,CUST1151,Webcam HD,Electronics,East,Patna,1,3809.82,2401.84,3809.82,2401.84,1407.98,36.96,Credit Card,Cancelled
+ORD1005,2023-05-29,CUST1052,Jump Rope,Sports & Fitness,Central,Nagpur,1,327.31,158.48,327.31,158.48,168.83,51.58,Credit Card,Delivered
+ORD1006,2023-05-17,CUST1088,Fiction Novel,Books,West,Ahmedabad,2,421.11,139.57,842.22,279.14,563.08,66.86,Credit Card,Cancelled
+ORD1007,2023-12-19,CUST1167,Protein Powder,Sports & Fitness,South,Kochi,4,954.85,562.22,3819.4,2248.88,1570.52,41.12,Cash on Delivery,Delivered
+ORD1008,2023-10-18,CUST1256,USB-C Hub,Electronics,North,Amritsar,4,1777.06,1033.62,7108.24,4134.48,2973.76,41.84,UPI,Delivered
+ORD1009,2023-05-15,CUST1299,Marketing Basics,Books,South,Hyderabad,2,346.98,133.31,693.96,266.62,427.34,61.58,Cash on Delivery,Returned
+ORD1010,2023-02-26,CUST1217,Cooking Recipes,Books,South,Chennai,5,495.11,204.66,2475.55,1023.3,1452.25,58.66,Debit Card,Delivered
+ORD1011,2023-10-11,CUST1275,Resistance Bands,Sports & Fitness,West,Surat,5,2988.14,1581.82,14940.7,7909.1,7031.6,47.06,Credit Card,Delivered
+ORD1012,2023-05-15,CUST1260,Rice Cooker,Home & Kitchen,North,Amritsar,4,1368.87,685.1,5475.48,2740.4,2735.08,49.95,Cash on Delivery,Delivered
+ORD1013,2023-09-29,CUST1166,Laptop Stand,Electronics,Central,Nagpur,2,2244.22,1288.7,4488.44,2577.4,1911.04,42.58,Credit Card,Cancelled
+ORD1014,2023-10-18,CUST1249,Python Programming,Books,North,Amritsar,3,342.67,115.18,1028.01,345.54,682.47,66.39,Credit Card,Delivered
+ORD1015,2023-11-07,CUST1277,Smart Watch,Electronics,South,Kochi,5,1325.56,833.98,6627.8,4169.9,2457.9,37.08,Net Banking,Delivered
+ORD1016,2023-05-07,CUST1174,Sports Shorts,Clothing,West,Ahmedabad,4,2278.15,1065.54,9112.6,4262.16,4850.44,53.23,Debit Card,Delivered
+ORD1017,2023-04-28,CUST1170,USB-C Hub,Electronics,Central,Nagpur,1,911.37,587.53,911.37,587.53,323.84,35.53,Credit Card,Delivered
+ORD1018,2023-10-20,CUST1125,USB-C Hub,Electronics,East,Guwahati,2,2971.63,1956.83,5943.26,3913.66,2029.6,34.15,Cash on Delivery,Returned
+ORD1019,2023-07-30,CUST1051,History of AI,Books,South,Bangalore,1,594.39,209.91,594.39,209.91,384.48,64.68,Net Banking,Delivered
+ORD1020,2023-03-13,CUST1143,Mechanical Keyboard,Electronics,East,Kolkata,2,1442.0,909.1,2884.0,1818.2,1065.8,36.96,Net Banking,Delivered
+ORD1021,2023-10-04,CUST1122,Self Help Guide,Books,North,Ludhiana,5,257.75,102.54,1288.75,512.7,776.05,60.22,Credit Card,Delivered
+ORD1022,2023-03-26,CUST1200,Casual Sneakers,Clothing,West,Surat,2,2201.23,1178.46,4402.46,2356.92,2045.54,46.46,Net Banking,Delivered
+ORD1023,2023-04-08,CUST1030,Vacuum Cleaner,Home & Kitchen,East,Guwahati,5,4139.29,2371.82,20696.45,11859.1,8837.35,42.7,UPI,Delivered
+ORD1024,2023-09-29,CUST1261,Yoga Mat,Sports & Fitness,East,Kolkata,1,1834.7,964.0,1834.7,964.0,870.7,47.46,Debit Card,Delivered
+ORD1025,2023-10-19,CUST1021,Smart Watch,Electronics,North,Delhi,2,2375.61,1642.12,4751.22,3284.24,1466.98,30.88,Debit Card,Cancelled
+ORD1026,2023-05-03,CUST1068,Resistance Bands,Sports & Fitness,West,Ahmedabad,3,770.93,429.74,2312.79,1289.22,1023.57,44.26,UPI,Returned
+ORD1027,2023-02-21,CUST1110,Vacuum Cleaner,Home & Kitchen,East,Kolkata,1,3019.57,1962.02,3019.57,1962.02,1057.55,35.02,Credit Card,Cancelled
+ORD1028,2023-03-22,CUST1155,Cycling Gloves,Sports & Fitness,South,Hyderabad,1,2660.96,1344.93,2660.96,1344.93,1316.03,49.46,Net Banking,Cancelled
+ORD1029,2023-03-01,CUST1080,Yoga Mat,Sports & Fitness,Central,Indore,1,2828.0,1329.57,2828.0,1329.57,1498.43,52.99,Credit Card,Cancelled
+ORD1030,2023-05-16,CUST1129,Blender,Home & Kitchen,Central,Nagpur,3,1618.79,963.4,4856.37,2890.2,1966.17,40.49,Cash on Delivery,Returned
+ORD1031,2023-11-23,CUST1227,Bluetooth Speaker,Electronics,West,Ahmedabad,1,614.6,409.12,614.6,409.12,205.48,33.43,UPI,Delivered
+ORD1032,2023-03-18,CUST1190,Foam Roller,Sports & Fitness,Central,Bhopal,1,409.68,238.62,409.68,238.62,171.06,41.75,Cash on Delivery,Delivered
+ORD1033,2023-01-21,CUST1128,Dumbbell Set,Sports & Fitness,West,Pune,1,1062.12,621.18,1062.12,621.18,440.94,41.52,UPI,Delivered
+ORD1034,2023-05-02,CUST1212,Webcam HD,Electronics,Central,Raipur,5,3896.7,2684.3,19483.5,13421.5,6062.0,31.11,Debit Card,Delivered
+ORD1035,2023-02-25,CUST1241,Smart Watch,Electronics,East,Guwahati,2,1772.95,1184.52,3545.9,2369.04,1176.86,33.19,Net Banking,Delivered
+ORD1036,2023-04-25,CUST1205,Winter Jacket,Clothing,West,Ahmedabad,3,2104.18,1116.69,6312.54,3350.07,2962.47,46.93,Credit Card,Delivered
+ORD1037,2023-10-02,CUST1060,Blender,Home & Kitchen,North,Amritsar,3,4027.15,2255.01,12081.45,6765.03,5316.42,44.0,UPI,Delivered
+ORD1038,2023-06-10,CUST1262,Non-stick Pan,Home & Kitchen,Central,Indore,1,1095.21,619.0,1095.21,619.0,476.21,43.48,Net Banking,Cancelled
+ORD1039,2023-09-24,CUST1187,Mechanical Keyboard,Electronics,Central,Nagpur,3,794.3,488.82,2382.9,1466.46,916.44,38.46,Cash on Delivery,Delivered
+ORD1040,2023-06-08,CUST1207,Data Science Handbook,Books,East,Patna,1,630.85,217.67,630.85,217.67,413.18,65.5,Net Banking,Delivered
+ORD1041,2023-11-12,CUST1208,Non-stick Pan,Home & Kitchen,South,Kochi,4,4224.25,2684.18,16897.0,10736.72,6160.28,36.46,Cash on Delivery,Delivered
+ORD1042,2023-12-02,CUST1227,Yoga Mat,Sports & Fitness,East,Patna,2,1402.69,753.24,2805.38,1506.48,1298.9,46.3,UPI,Returned
+ORD1043,2023-12-06,CUST1048,Self Help Guide,Books,Central,Raipur,2,594.31,203.59,1188.62,407.18,781.44,65.74,Cash on Delivery,Delivered
+ORD1044,2023-09-01,CUST1234,Sports Shorts,Clothing,South,Chennai,2,352.74,154.05,705.48,308.1,397.38,56.33,Cash on Delivery,Delivered
+ORD1045,2023-01-03,CUST1113,Self Help Guide,Books,West,Surat,4,345.39,137.61,1381.56,550.44,831.12,60.16,Credit Card,Returned
+ORD1046,2023-12-08,CUST1163,Woolen Sweater,Clothing,North,Chandigarh,1,1303.22,677.95,1303.22,677.95,625.27,47.98,Cash on Delivery,Cancelled
+ORD1047,2023-05-13,CUST1267,History of AI,Books,Central,Raipur,2,645.19,239.5,1290.38,479.0,811.38,62.88,Debit Card,Delivered
+ORD1048,2023-06-21,CUST1042,Self Help Guide,Books,East,Guwahati,1,627.13,210.2,627.13,210.2,416.93,66.48,UPI,Cancelled
+ORD1049,2023-07-28,CUST1239,Running Shoes,Clothing,South,Kochi,2,1853.12,759.1,3706.24,1518.2,2188.04,59.04,UPI,Cancelled
+ORD1050,2023-12-23,CUST1195,Python Programming,Books,South,Kochi,4,741.9,287.57,2967.6,1150.28,1817.32,61.24,Credit Card,Cancelled
+ORD1051,2023-08-03,CUST1113,Python Programming,Books,East,Patna,4,711.07,315.01,2844.28,1260.04,1584.24,55.7,Cash on Delivery,Cancelled
+ORD1052,2023-12-14,CUST1240,Self Help Guide,Books,East,Guwahati,4,216.41,75.83,865.64,303.32,562.32,64.96,Net Banking,Delivered
+ORD1053,2023-08-25,CUST1134,Men's T-Shirt,Clothing,West,Mumbai,1,1713.05,720.09,1713.05,720.09,992.96,57.96,Debit Card,Delivered
+ORD1054,2023-05-23,CUST1042,Cooking Recipes,Books,South,Kochi,3,401.5,173.43,1204.5,520.29,684.21,56.8,Net Banking,Delivered
+ORD1055,2023-11-30,CUST1127,Python Programming,Books,Central,Bhopal,3,333.53,103.49,1000.59,310.47,690.12,68.97,Credit Card,Delivered
+ORD1056,2023-10-16,CUST1132,Men's T-Shirt,Clothing,Central,Nagpur,2,576.69,288.59,1153.38,577.18,576.2,49.96,Debit Card,Returned
+ORD1057,2023-01-14,CUST1193,Non-stick Pan,Home & Kitchen,Central,Bhopal,2,5804.96,2996.61,11609.92,5993.22,5616.7,48.38,UPI,Cancelled
+ORD1058,2023-12-17,CUST1290,Self Help Guide,Books,North,Chandigarh,1,617.32,213.12,617.32,213.12,404.2,65.48,Cash on Delivery,Delivered
+ORD1059,2023-01-07,CUST1055,Webcam HD,Electronics,Central,Raipur,3,902.41,583.98,2707.23,1751.94,955.29,35.29,Net Banking,Returned
+ORD1060,2023-11-30,CUST1276,Cooking Recipes,Books,West,Pune,4,304.68,115.25,1218.72,461.0,757.72,62.17,UPI,Cancelled
+ORD1061,2023-02-14,CUST1125,Marketing Basics,Books,West,Ahmedabad,3,710.03,301.49,2130.09,904.47,1225.62,57.54,UPI,Returned
+ORD1062,2023-04-19,CUST1175,History of AI,Books,East,Kolkata,4,709.57,232.23,2838.28,928.92,1909.36,67.27,UPI,Delivered
+ORD1063,2023-07-28,CUST1124,Blender,Home & Kitchen,Central,Bhopal,5,5713.34,2930.04,28566.7,14650.2,13916.5,48.72,Net Banking,Cancelled
+ORD1064,2023-05-05,CUST1189,Marketing Basics,Books,West,Mumbai,1,375.54,135.44,375.54,135.44,240.1,63.93,UPI,Cancelled
+ORD1065,2023-05-09,CUST1099,Cooking Recipes,Books,West,Ahmedabad,3,620.71,211.44,1862.13,634.32,1227.81,65.94,Debit Card,Delivered
+ORD1066,2023-10-29,CUST1145,Coffee Maker,Home & Kitchen,Central,Nagpur,2,1689.12,967.24,3378.24,1934.48,1443.76,42.74,Cash on Delivery,Cancelled
+ORD1067,2023-10-01,CUST1024,USB-C Hub,Electronics,East,Bhubaneswar,3,1388.54,766.64,4165.62,2299.92,1865.7,44.79,Debit Card,Delivered
+ORD1068,2023-08-29,CUST1175,Laptop Stand,Electronics,South,Kochi,1,4438.97,2823.67,4438.97,2823.67,1615.3,36.39,Net Banking,Returned
+ORD1069,2023-02-07,CUST1078,Men's T-Shirt,Clothing,East,Guwahati,1,2107.65,969.74,2107.65,969.74,1137.91,53.99,Cash on Delivery,Delivered
+ORD1070,2023-11-02,CUST1268,Sports Shorts,Clothing,North,Chandigarh,1,1526.76,706.01,1526.76,706.01,820.75,53.76,Cash on Delivery,Delivered
+ORD1071,2023-11-14,CUST1051,Marketing Basics,Books,West,Ahmedabad,5,793.02,274.23,3965.1,1371.15,2593.95,65.42,Credit Card,Cancelled
+ORD1072,2023-03-22,CUST1231,Winter Jacket,Clothing,East,Kolkata,2,826.7,399.13,1653.4,798.26,855.14,51.72,Credit Card,Returned
+ORD1073,2023-08-21,CUST1136,Water Bottle,Sports & Fitness,East,Kolkata,2,1005.69,495.21,2011.38,990.42,1020.96,50.76,Credit Card,Delivered
+ORD1074,2023-05-17,CUST1031,Protein Powder,Sports & Fitness,West,Mumbai,5,828.47,391.33,4142.35,1956.65,2185.7,52.76,Debit Card,Delivered
+ORD1075,2023-12-25,CUST1257,Sports Shorts,Clothing,Central,Indore,4,572.58,288.18,2290.32,1152.72,1137.6,49.67,Net Banking,Delivered
+ORD1076,2023-06-15,CUST1014,Water Bottle,Sports & Fitness,West,Mumbai,5,310.61,159.9,1553.05,799.5,753.55,48.52,Cash on Delivery,Delivered
+ORD1077,2023-03-31,CUST1227,USB-C Hub,Electronics,Central,Bhopal,3,3134.49,2082.76,9403.47,6248.28,3155.19,33.55,Net Banking,Cancelled
+ORD1078,2023-07-29,CUST1054,Non-stick Pan,Home & Kitchen,Central,Raipur,4,5828.8,3325.34,23315.2,13301.36,10013.84,42.95,UPI,Delivered
+ORD1079,2023-10-09,CUST1046,Formal Shirt,Clothing,West,Surat,3,1756.68,808.19,5270.04,2424.57,2845.47,53.99,Credit Card,Returned
+ORD1080,2023-01-01,CUST1212,Blender,Home & Kitchen,East,Kolkata,4,5256.01,3278.38,21024.04,13113.52,7910.52,37.63,Cash on Delivery,Returned
+ORD1081,2023-01-27,CUST1282,USB-C Hub,Electronics,Central,Indore,5,3927.35,2528.47,19636.75,12642.35,6994.4,35.62,Debit Card,Delivered
+ORD1082,2023-05-03,CUST1283,Sports Shorts,Clothing,West,Surat,1,362.51,179.26,362.51,179.26,183.25,50.55,Debit Card,Delivered
+ORD1083,2023-03-20,CUST1261,Mechanical Keyboard,Electronics,North,Chandigarh,1,2629.37,1492.48,2629.37,1492.48,1136.89,43.24,Net Banking,Delivered
+ORD1084,2023-04-08,CUST1070,Toaster Oven,Home & Kitchen,West,Surat,2,3011.33,1571.0,6022.66,3142.0,2880.66,47.83,Cash on Delivery,Cancelled
+ORD1085,2023-06-02,CUST1251,Laptop Stand,Electronics,West,Ahmedabad,5,1774.56,976.69,8872.8,4883.45,3989.35,44.96,Cash on Delivery,Cancelled
+ORD1086,2023-07-13,CUST1097,Woolen Sweater,Clothing,Central,Raipur,3,1030.37,530.05,3091.11,1590.15,1500.96,48.56,Net Banking,Delivered
+ORD1087,2023-07-15,CUST1254,Casual Sneakers,Clothing,South,Kochi,1,998.99,470.47,998.99,470.47,528.52,52.91,Net Banking,Delivered
+ORD1088,2023-09-27,CUST1074,Smart Watch,Electronics,Central,Indore,1,4445.44,2738.6,4445.44,2738.6,1706.84,38.4,Net Banking,Delivered
+ORD1089,2023-11-29,CUST1274,Business Strategy,Books,North,Ludhiana,3,402.14,162.43,1206.42,487.29,719.13,59.61,Credit Card,Delivered
+ORD1090,2023-05-28,CUST1223,Cooking Recipes,Books,West,Mumbai,5,240.05,94.74,1200.25,473.7,726.55,60.53,Debit Card,Delivered
+ORD1091,2023-01-29,CUST1192,Bluetooth Speaker,Electronics,West,Pune,3,4574.07,2547.29,13722.21,7641.87,6080.34,44.31,UPI,Delivered
+ORD1092,2023-03-31,CUST1196,Business Strategy,Books,South,Kochi,5,608.08,198.85,3040.4,994.25,2046.15,67.3,Credit Card,Cancelled
+ORD1093,2023-05-11,CUST1148,Protein Powder,Sports & Fitness,West,Pune,2,1490.22,727.37,2980.44,1454.74,1525.7,51.19,Credit Card,Returned
+ORD1094,2023-08-06,CUST1155,Dumbbell Set,Sports & Fitness,North,Ludhiana,3,2964.42,1467.01,8893.26,4401.03,4492.23,50.51,UPI,Returned
+ORD1095,2023-06-01,CUST1203,Casual Sneakers,Clothing,West,Mumbai,2,1138.0,516.47,2276.0,1032.94,1243.06,54.62,UPI,Delivered
+ORD1096,2023-05-27,CUST1181,Air Fryer,Home & Kitchen,Central,Bhopal,5,4597.45,2873.07,22987.25,14365.35,8621.9,37.51,Debit Card,Cancelled
+ORD1097,2023-11-27,CUST1226,Winter Jacket,Clothing,Central,Indore,2,1681.15,900.27,3362.3,1800.54,1561.76,46.45,Credit Card,Delivered
+ORD1098,2023-04-13,CUST1188,Webcam HD,Electronics,South,Bangalore,3,2036.56,1247.04,6109.68,3741.12,2368.56,38.77,Debit Card,Cancelled
+ORD1099,2023-06-23,CUST1039,Cycling Gloves,Sports & Fitness,South,Hyderabad,4,2907.68,1437.18,11630.72,5748.72,5882.0,50.57,Credit Card,Returned
+ORD1100,2023-10-02,CUST1189,Winter Jacket,Clothing,West,Ahmedabad,1,2038.5,819.66,2038.5,819.66,1218.84,59.79,Credit Card,Returned
+ORD1101,2023-10-15,CUST1114,Toaster Oven,Home & Kitchen,East,Kolkata,2,3092.12,1833.42,6184.24,3666.84,2517.4,40.71,UPI,Cancelled
+ORD1102,2023-06-05,CUST1050,Gaming Mouse,Electronics,East,Guwahati,1,1214.02,840.03,1214.02,840.03,373.99,30.81,Net Banking,Delivered
+ORD1103,2023-10-04,CUST1080,Running Shoes,Clothing,West,Surat,3,1774.07,907.39,5322.21,2722.17,2600.04,48.85,Net Banking,Cancelled
+ORD1104,2023-08-16,CUST1186,Data Science Handbook,Books,West,Surat,3,218.63,77.74,655.89,233.22,422.67,64.44,Net Banking,Delivered
+ORD1105,2023-03-04,CUST1109,Webcam HD,Electronics,Central,Indore,1,2350.81,1359.88,2350.81,1359.88,990.93,42.15,Net Banking,Delivered
+ORD1106,2023-04-16,CUST1107,Yoga Mat,Sports & Fitness,North,Amritsar,2,2967.7,1685.79,5935.4,3371.58,2563.82,43.2,Credit Card,Cancelled
+ORD1107,2023-05-22,CUST1277,Protein Powder,Sports & Fitness,South,Hyderabad,2,2407.2,1298.44,4814.4,2596.88,2217.52,46.06,Debit Card,Delivered
+ORD1108,2023-05-02,CUST1009,Non-stick Pan,Home & Kitchen,North,Delhi,2,580.73,359.18,1161.46,718.36,443.1,38.15,Cash on Delivery,Delivered
+ORD1109,2023-09-01,CUST1263,Sports Shorts,Clothing,North,Chandigarh,4,1456.39,745.45,5825.56,2981.8,2843.76,48.82,Net Banking,Delivered
+ORD1110,2023-12-04,CUST1235,Resistance Bands,Sports & Fitness,West,Pune,5,320.42,181.83,1602.1,909.15,692.95,43.25,Cash on Delivery,Delivered
+ORD1111,2023-08-16,CUST1165,Wireless Earbuds,Electronics,West,Surat,4,3617.83,2255.86,14471.32,9023.44,5447.88,37.65,Credit Card,Delivered
+ORD1112,2023-12-31,CUST1272,Dumbbell Set,Sports & Fitness,North,Chandigarh,3,1947.09,1047.15,5841.27,3141.45,2699.82,46.22,UPI,Returned
+ORD1113,2023-12-02,CUST1221,Vacuum Cleaner,Home & Kitchen,Central,Raipur,1,4861.03,2513.94,4861.03,2513.94,2347.09,48.28,Cash on Delivery,Delivered
+ORD1114,2023-06-10,CUST1131,Self Help Guide,Books,West,Ahmedabad,4,438.24,179.43,1752.96,717.72,1035.24,59.06,Net Banking,Delivered
+ORD1115,2023-02-19,CUST1285,Non-stick Pan,Home & Kitchen,West,Mumbai,1,5073.75,2607.83,5073.75,2607.83,2465.92,48.6,UPI,Delivered
+ORD1116,2023-08-05,CUST1160,Webcam HD,Electronics,North,Ludhiana,3,4442.87,3070.78,13328.61,9212.34,4116.27,30.88,Credit Card,Delivered
+ORD1117,2023-02-25,CUST1189,Coffee Maker,Home & Kitchen,Central,Nagpur,2,4111.05,2193.81,8222.1,4387.62,3834.48,46.64,UPI,Cancelled
+ORD1118,2023-11-15,CUST1014,Laptop Stand,Electronics,Central,Nagpur,4,4317.68,3005.89,17270.72,12023.56,5247.16,30.38,Cash on Delivery,Cancelled
+ORD1119,2023-06-23,CUST1093,Cycling Gloves,Sports & Fitness,North,Chandigarh,3,2166.56,1075.37,6499.68,3226.11,3273.57,50.37,UPI,Delivered
+ORD1120,2023-07-12,CUST1175,Casual Sneakers,Clothing,North,Chandigarh,1,500.87,240.2,500.87,240.2,260.67,52.04,Net Banking,Returned
+ORD1121,2023-03-21,CUST1026,Formal Shirt,Clothing,East,Patna,5,1610.69,857.69,8053.45,4288.45,3765.0,46.75,Debit Card,Cancelled
+ORD1122,2023-04-21,CUST1177,Laptop Stand,Electronics,West,Surat,4,3270.13,2001.74,13080.52,8006.96,5073.56,38.79,Cash on Delivery,Delivered
+ORD1123,2023-07-22,CUST1004,Data Science Handbook,Books,East,Guwahati,5,599.28,183.87,2996.4,919.35,2077.05,69.32,Cash on Delivery,Delivered
+ORD1124,2023-09-12,CUST1067,Sports Shorts,Clothing,South,Chennai,3,935.78,391.15,2807.34,1173.45,1633.89,58.2,Net Banking,Delivered
+ORD1125,2023-08-12,CUST1040,Self Help Guide,Books,Central,Indore,1,437.24,179.84,437.24,179.84,257.4,58.87,Credit Card,Returned
+ORD1126,2023-06-16,CUST1236,Toaster Oven,Home & Kitchen,Central,Raipur,4,2091.33,1172.72,8365.32,4690.88,3674.44,43.92,Debit Card,Cancelled
+ORD1127,2023-02-10,CUST1174,Coffee Maker,Home & Kitchen,West,Mumbai,2,2895.22,1621.52,5790.44,3243.04,2547.4,43.99,Net Banking,Delivered
+ORD1128,2023-04-10,CUST1076,Formal Shirt,Clothing,South,Bangalore,5,1692.09,811.51,8460.45,4057.55,4402.9,52.04,UPI,Delivered
+ORD1129,2023-12-02,CUST1253,Women's Jeans,Clothing,South,Hyderabad,2,680.7,287.89,1361.4,575.78,785.62,57.71,Credit Card,Delivered
+ORD1130,2023-08-15,CUST1029,Marketing Basics,Books,Central,Indore,3,289.57,89.84,868.71,269.52,599.19,68.97,UPI,Delivered
+ORD1131,2023-05-27,CUST1260,Coffee Maker,Home & Kitchen,East,Guwahati,4,705.84,391.96,2823.36,1567.84,1255.52,44.47,Credit Card,Delivered
+ORD1132,2023-04-07,CUST1244,Marketing Basics,Books,Central,Bhopal,4,744.43,287.16,2977.72,1148.64,1829.08,61.43,UPI,Cancelled
+ORD1133,2023-02-13,CUST1021,Dumbbell Set,Sports & Fitness,North,Ludhiana,1,2469.71,1421.58,2469.71,1421.58,1048.13,42.44,Cash on Delivery,Delivered
+ORD1134,2023-07-29,CUST1027,Woolen Sweater,Clothing,West,Pune,3,1119.27,495.2,3357.81,1485.6,1872.21,55.76,UPI,Cancelled
+ORD1135,2023-12-03,CUST1171,Coffee Maker,Home & Kitchen,East,Kolkata,5,4230.09,2295.34,21150.45,11476.7,9673.75,45.74,Cash on Delivery,Delivered
+ORD1136,2023-02-13,CUST1193,Smart Watch,Electronics,East,Patna,4,1166.39,765.53,4665.56,3062.12,1603.44,34.37,UPI,Cancelled
+ORD1137,2023-06-08,CUST1175,Non-stick Pan,Home & Kitchen,Central,Bhopal,4,3295.69,1656.86,13182.76,6627.44,6555.32,49.73,Debit Card,Delivered
+ORD1138,2023-02-21,CUST1270,Self Help Guide,Books,South,Chennai,2,245.3,104.66,490.6,209.32,281.28,57.33,Cash on Delivery,Cancelled
+ORD1139,2023-12-21,CUST1225,Webcam HD,Electronics,Central,Nagpur,5,2256.57,1296.03,11282.85,6480.15,4802.7,42.57,Cash on Delivery,Delivered
+ORD1140,2023-08-18,CUST1123,Mechanical Keyboard,Electronics,East,Bhubaneswar,4,3285.62,2177.9,13142.48,8711.6,4430.88,33.71,Debit Card,Cancelled
+ORD1141,2023-05-25,CUST1271,Vacuum Cleaner,Home & Kitchen,South,Hyderabad,5,5913.42,3366.23,29567.1,16831.15,12735.95,43.07,Net Banking,Cancelled
+ORD1142,2023-07-10,CUST1265,Business Strategy,Books,South,Chennai,3,230.31,85.7,690.93,257.1,433.83,62.79,Cash on Delivery,Delivered
+ORD1143,2023-08-12,CUST1231,Laptop Stand,Electronics,North,Chandigarh,3,2576.0,1615.16,7728.0,4845.48,2882.52,37.3,Credit Card,Delivered
+ORD1144,2023-02-11,CUST1015,Air Fryer,Home & Kitchen,West,Mumbai,4,3260.04,1745.32,13040.16,6981.28,6058.88,46.46,UPI,Delivered
+ORD1145,2023-08-30,CUST1230,Coffee Maker,Home & Kitchen,East,Bhubaneswar,2,709.67,452.49,1419.34,904.98,514.36,36.24,Debit Card,Returned
+ORD1146,2023-11-08,CUST1057,Yoga Mat,Sports & Fitness,North,Delhi,3,802.83,379.28,2408.49,1137.84,1270.65,52.76,Cash on Delivery,Returned
+ORD1147,2023-11-15,CUST1057,Water Purifier,Home & Kitchen,East,Kolkata,1,1810.42,1078.73,1810.42,1078.73,731.69,40.42,Net Banking,Delivered
+ORD1148,2023-06-30,CUST1214,Python Programming,Books,Central,Nagpur,2,373.76,112.22,747.52,224.44,523.08,69.98,Debit Card,Cancelled
+ORD1149,2023-09-17,CUST1200,Women's Jeans,Clothing,Central,Indore,1,2396.49,1154.18,2396.49,1154.18,1242.31,51.84,Cash on Delivery,Delivered
+ORD1150,2023-02-04,CUST1054,Python Programming,Books,West,Ahmedabad,3,647.39,228.89,1942.17,686.67,1255.5,64.64,UPI,Delivered
+ORD1151,2023-03-31,CUST1094,Jump Rope,Sports & Fitness,South,Bangalore,3,1727.84,988.37,5183.52,2965.11,2218.41,42.8,Net Banking,Returned
+ORD1152,2023-01-22,CUST1264,Women's Jeans,Clothing,West,Mumbai,3,742.5,385.11,2227.5,1155.33,1072.17,48.13,UPI,Delivered
+ORD1153,2023-01-25,CUST1064,Marketing Basics,Books,East,Kolkata,2,370.67,159.14,741.34,318.28,423.06,57.07,UPI,Delivered
+ORD1154,2023-12-21,CUST1266,Toaster Oven,Home & Kitchen,West,Surat,4,2363.7,1248.09,9454.8,4992.36,4462.44,47.2,Net Banking,Delivered
+ORD1155,2023-10-07,CUST1053,Coffee Maker,Home & Kitchen,West,Mumbai,4,3812.49,2376.52,15249.96,9506.08,5743.88,37.66,UPI,Delivered
+ORD1156,2023-12-20,CUST1229,Webcam HD,Electronics,East,Patna,4,3250.54,1995.56,13002.16,7982.24,5019.92,38.61,Net Banking,Delivered
+ORD1157,2023-01-30,CUST1187,Webcam HD,Electronics,Central,Raipur,3,3412.66,2282.12,10237.98,6846.36,3391.62,33.13,Credit Card,Returned
+ORD1158,2023-03-06,CUST1188,Dumbbell Set,Sports & Fitness,North,Chandigarh,5,2097.65,1081.81,10488.25,5409.05,5079.2,48.43,Credit Card,Delivered
+ORD1159,2023-07-09,CUST1040,Toaster Oven,Home & Kitchen,Central,Bhopal,5,1342.91,762.09,6714.55,3810.45,2904.1,43.25,UPI,Returned
+ORD1160,2023-02-28,CUST1256,Dumbbell Set,Sports & Fitness,Central,Indore,4,1079.28,530.79,4317.12,2123.16,2193.96,50.82,Credit Card,Delivered
+ORD1161,2023-04-20,CUST1252,Foam Roller,Sports & Fitness,Central,Bhopal,3,2368.9,1316.17,7106.7,3948.51,3158.19,44.44,Cash on Delivery,Delivered
+ORD1162,2023-02-14,CUST1034,Women's Jeans,Clothing,South,Bangalore,4,678.84,344.18,2715.36,1376.72,1338.64,49.3,UPI,Delivered
+ORD1163,2023-03-04,CUST1122,Cycling Gloves,Sports & Fitness,East,Bhubaneswar,2,2421.35,1274.39,4842.7,2548.78,2293.92,47.37,Debit Card,Delivered
+ORD1164,2023-11-10,CUST1159,Python Programming,Books,East,Patna,4,681.2,260.73,2724.8,1042.92,1681.88,61.72,Credit Card,Delivered
+ORD1165,2023-06-12,CUST1239,Marketing Basics,Books,Central,Raipur,4,693.0,215.57,2772.0,862.28,1909.72,68.89,Credit Card,Returned
+ORD1166,2023-01-29,CUST1079,Jump Rope,Sports & Fitness,South,Chennai,2,1410.33,827.31,2820.66,1654.62,1166.04,41.34,Credit Card,Cancelled
+ORD1167,2023-05-26,CUST1101,Non-stick Pan,Home & Kitchen,South,Hyderabad,2,2402.13,1540.09,4804.26,3080.18,1724.08,35.89,Credit Card,Delivered
+ORD1168,2023-03-28,CUST1079,Cycling Gloves,Sports & Fitness,South,Hyderabad,5,1692.74,889.34,8463.7,4446.7,4017.0,47.46,Cash on Delivery,Cancelled
+ORD1169,2023-10-23,CUST1293,Formal Shirt,Clothing,Central,Bhopal,1,477.69,259.04,477.69,259.04,218.65,45.77,UPI,Delivered
+ORD1170,2023-12-17,CUST1233,Python Programming,Books,West,Ahmedabad,3,488.77,205.63,1466.31,616.89,849.42,57.93,Net Banking,Delivered
+ORD1171,2023-11-07,CUST1164,Wireless Earbuds,Electronics,South,Kochi,4,2729.7,1584.87,10918.8,6339.48,4579.32,41.94,Debit Card,Delivered
+ORD1172,2023-08-27,CUST1231,Toaster Oven,Home & Kitchen,South,Hyderabad,5,3588.08,1965.79,17940.4,9828.95,8111.45,45.21,Credit Card,Delivered
+ORD1173,2023-08-03,CUST1168,Running Shoes,Clothing,North,Delhi,3,2378.85,1259.9,7136.55,3779.7,3356.85,47.04,Debit Card,Delivered
+ORD1174,2023-06-07,CUST1047,Jump Rope,Sports & Fitness,South,Chennai,4,2987.71,1553.68,11950.84,6214.72,5736.12,48.0,Net Banking,Delivered
+ORD1175,2023-09-11,CUST1147,Marketing Basics,Books,South,Chennai,5,410.74,126.34,2053.7,631.7,1422.0,69.24,Cash on Delivery,Returned
+ORD1176,2023-07-26,CUST1206,Yoga Mat,Sports & Fitness,North,Ludhiana,2,2669.88,1492.8,5339.76,2985.6,2354.16,44.09,UPI,Delivered
+ORD1177,2023-10-09,CUST1061,USB-C Hub,Electronics,East,Patna,1,2298.93,1419.71,2298.93,1419.71,879.22,38.24,UPI,Cancelled
+ORD1178,2023-03-15,CUST1261,Women's Jeans,Clothing,West,Ahmedabad,3,1526.23,694.19,4578.69,2082.57,2496.12,54.52,Debit Card,Cancelled
+ORD1179,2023-09-23,CUST1264,Python Programming,Books,North,Delhi,2,627.16,263.78,1254.32,527.56,726.76,57.94,Net Banking,Delivered
+ORD1180,2023-06-03,CUST1260,Formal Shirt,Clothing,Central,Indore,2,1163.5,572.99,2327.0,1145.98,1181.02,50.75,Cash on Delivery,Delivered
+ORD1181,2023-12-11,CUST1299,Water Bottle,Sports & Fitness,Central,Indore,4,2483.1,1254.6,9932.4,5018.4,4914.0,49.47,Credit Card,Returned
+ORD1182,2023-10-24,CUST1027,Air Fryer,Home & Kitchen,Central,Raipur,3,5817.89,3592.17,17453.67,10776.51,6677.16,38.26,Cash on Delivery,Delivered
+ORD1183,2023-10-21,CUST1010,Water Bottle,Sports & Fitness,South,Kochi,2,2499.65,1215.65,4999.3,2431.3,2568.0,51.37,Credit Card,Delivered
+ORD1184,2023-11-10,CUST1071,Cooking Recipes,Books,West,Pune,4,613.3,221.74,2453.2,886.96,1566.24,63.84,Net Banking,Delivered
+ORD1185,2023-03-30,CUST1176,Protein Powder,Sports & Fitness,Central,Indore,4,1670.34,830.26,6681.36,3321.04,3360.32,50.29,Net Banking,Cancelled
+ORD1186,2023-06-02,CUST1148,Jump Rope,Sports & Fitness,East,Guwahati,2,2879.54,1416.3,5759.08,2832.6,2926.48,50.82,Debit Card,Delivered
+ORD1187,2023-05-21,CUST1294,Woolen Sweater,Clothing,East,Guwahati,3,1532.07,827.58,4596.21,2482.74,2113.47,45.98,UPI,Delivered
+ORD1188,2023-02-10,CUST1132,Foam Roller,Sports & Fitness,West,Ahmedabad,2,1012.27,499.2,2024.54,998.4,1026.14,50.69,UPI,Returned
+ORD1189,2023-11-12,CUST1125,Self Help Guide,Books,South,Hyderabad,5,616.7,197.71,3083.5,988.55,2094.95,67.94,Cash on Delivery,Delivered
+ORD1190,2023-02-21,CUST1282,USB-C Hub,Electronics,South,Bangalore,1,2417.53,1589.78,2417.53,1589.78,827.75,34.24,Debit Card,Delivered
+ORD1191,2023-05-27,CUST1294,Casual Sneakers,Clothing,West,Surat,2,1962.0,869.34,3924.0,1738.68,2185.32,55.69,Credit Card,Delivered
+ORD1192,2023-07-23,CUST1149,Men's T-Shirt,Clothing,South,Kochi,2,2353.63,954.28,4707.26,1908.56,2798.7,59.45,Net Banking,Delivered
+ORD1193,2023-10-06,CUST1069,Wireless Earbuds,Electronics,East,Kolkata,3,1851.07,1292.72,5553.21,3878.16,1675.05,30.16,Cash on Delivery,Returned
+ORD1194,2023-11-28,CUST1008,Water Bottle,Sports & Fitness,East,Bhubaneswar,1,1124.92,629.58,1124.92,629.58,495.34,44.03,UPI,Delivered
+ORD1195,2023-07-27,CUST1168,Blender,Home & Kitchen,Central,Nagpur,2,3859.25,2299.38,7718.5,4598.76,3119.74,40.42,Net Banking,Cancelled
+ORD1196,2023-01-04,CUST1121,Mechanical Keyboard,Electronics,North,Chandigarh,2,2699.8,1863.87,5399.6,3727.74,1671.86,30.96,UPI,Returned
+ORD1197,2023-12-01,CUST1032,Fiction Novel,Books,East,Patna,5,632.73,190.9,3163.65,954.5,2209.15,69.83,UPI,Delivered
+ORD1198,2023-12-27,CUST1152,Gaming Mouse,Electronics,East,Bhubaneswar,4,3617.72,2490.68,14470.88,9962.72,4508.16,31.15,UPI,Delivered
+ORD1199,2023-11-07,CUST1282,Water Purifier,Home & Kitchen,South,Chennai,4,1341.52,821.23,5366.08,3284.92,2081.16,38.78,UPI,Returned
+ORD1200,2023-02-09,CUST1032,Self Help Guide,Books,South,Bangalore,5,467.05,189.42,2335.25,947.1,1388.15,59.44,Cash on Delivery,Delivered
+ORD1201,2023-03-01,CUST1251,Protein Powder,Sports & Fitness,Central,Nagpur,2,1117.73,590.22,2235.46,1180.44,1055.02,47.19,Debit Card,Cancelled
+ORD1202,2023-01-30,CUST1158,Gaming Mouse,Electronics,North,Ludhiana,2,2857.29,1767.29,5714.58,3534.58,2180.0,38.15,Cash on Delivery,Returned
+ORD1203,2023-06-26,CUST1031,Mechanical Keyboard,Electronics,East,Kolkata,2,3143.57,1750.32,6287.14,3500.64,2786.5,44.32,Credit Card,Cancelled
+ORD1204,2023-11-25,CUST1196,Gaming Mouse,Electronics,North,Amritsar,4,1390.92,793.26,5563.68,3173.04,2390.64,42.97,Net Banking,Delivered
+ORD1205,2023-03-02,CUST1202,History of AI,Books,West,Mumbai,5,278.79,119.61,1393.95,598.05,795.9,57.1,Debit Card,Cancelled
+ORD1206,2023-10-06,CUST1195,Dumbbell Set,Sports & Fitness,South,Bangalore,1,2938.77,1526.55,2938.77,1526.55,1412.22,48.05,Net Banking,Cancelled
+ORD1207,2023-02-27,CUST1009,Winter Jacket,Clothing,West,Ahmedabad,2,905.43,489.49,1810.86,978.98,831.88,45.94,Credit Card,Returned
+ORD1208,2023-12-27,CUST1023,Winter Jacket,Clothing,North,Delhi,5,372.87,182.58,1864.35,912.9,951.45,51.03,Credit Card,Delivered
+ORD1209,2023-04-30,CUST1296,Marketing Basics,Books,South,Chennai,1,283.08,127.11,283.08,127.11,155.97,55.1,Cash on Delivery,Delivered
+ORD1210,2023-07-31,CUST1032,Jump Rope,Sports & Fitness,South,Hyderabad,2,2958.95,1562.88,5917.9,3125.76,2792.14,47.18,UPI,Delivered
+ORD1211,2023-12-10,CUST1164,Dumbbell Set,Sports & Fitness,West,Surat,1,2921.41,1727.25,2921.41,1727.25,1194.16,40.88,Net Banking,Cancelled
+ORD1212,2023-05-04,CUST1074,History of AI,Books,South,Hyderabad,4,309.33,117.76,1237.32,471.04,766.28,61.93,Debit Card,Delivered
+ORD1213,2023-05-05,CUST1170,Python Programming,Books,Central,Raipur,4,533.37,170.74,2133.48,682.96,1450.52,67.99,UPI,Delivered
+ORD1214,2023-05-18,CUST1021,Gaming Mouse,Electronics,East,Kolkata,5,3787.17,2191.15,18935.85,10955.75,7980.1,42.14,Net Banking,Cancelled
+ORD1215,2023-06-05,CUST1098,USB-C Hub,Electronics,Central,Nagpur,4,1518.11,1041.51,6072.44,4166.04,1906.4,31.39,Credit Card,Delivered
+ORD1216,2023-05-25,CUST1274,Gaming Mouse,Electronics,South,Chennai,4,4625.56,2927.11,18502.24,11708.44,6793.8,36.72,Net Banking,Returned
+ORD1217,2023-08-29,CUST1190,Blender,Home & Kitchen,East,Patna,5,5354.47,3051.52,26772.35,15257.6,11514.75,43.01,UPI,Delivered
+ORD1218,2023-10-27,CUST1152,Toaster Oven,Home & Kitchen,North,Chandigarh,2,588.21,342.92,1176.42,685.84,490.58,41.7,Cash on Delivery,Returned
+ORD1219,2023-10-09,CUST1251,Winter Jacket,Clothing,East,Bhubaneswar,4,1552.54,678.24,6210.16,2712.96,3497.2,56.31,UPI,Delivered
+ORD1220,2023-04-05,CUST1269,Marketing Basics,Books,South,Hyderabad,2,282.98,108.09,565.96,216.18,349.78,61.8,Cash on Delivery,Delivered
+ORD1221,2023-02-04,CUST1112,Bluetooth Speaker,Electronics,North,Delhi,4,1203.96,776.08,4815.84,3104.32,1711.52,35.54,Debit Card,Delivered
+ORD1222,2023-09-05,CUST1004,Water Bottle,Sports & Fitness,East,Kolkata,5,1984.64,1171.11,9923.2,5855.55,4067.65,40.99,Net Banking,Delivered
+ORD1223,2023-05-27,CUST1221,Foam Roller,Sports & Fitness,North,Delhi,5,2221.14,1178.01,11105.7,5890.05,5215.65,46.96,Credit Card,Cancelled
+ORD1224,2023-07-01,CUST1041,Women's Jeans,Clothing,North,Chandigarh,2,721.25,345.46,1442.5,690.92,751.58,52.1,UPI,Returned
+ORD1225,2023-02-11,CUST1208,Toaster Oven,Home & Kitchen,West,Pune,2,2148.86,1341.34,4297.72,2682.68,1615.04,37.58,Credit Card,Delivered
+ORD1226,2023-02-12,CUST1170,History of AI,Books,Central,Raipur,1,581.05,235.57,581.05,235.57,345.48,59.46,Net Banking,Returned
+ORD1227,2023-10-18,CUST1024,Resistance Bands,Sports & Fitness,Central,Bhopal,2,790.97,458.93,1581.94,917.86,664.08,41.98,Net Banking,Delivered
+ORD1228,2023-04-17,CUST1204,Laptop Stand,Electronics,Central,Bhopal,2,4685.57,2798.09,9371.14,5596.18,3774.96,40.28,Cash on Delivery,Delivered
+ORD1229,2023-10-04,CUST1072,Laptop Stand,Electronics,South,Chennai,5,4271.46,2598.64,21357.3,12993.2,8364.1,39.16,UPI,Returned
+ORD1230,2023-11-06,CUST1204,Webcam HD,Electronics,North,Delhi,4,1620.43,909.71,6481.72,3638.84,2842.88,43.86,Cash on Delivery,Cancelled
+ORD1231,2023-07-12,CUST1300,Air Fryer,Home & Kitchen,East,Guwahati,4,1753.76,1022.36,7015.04,4089.44,2925.6,41.7,Net Banking,Delivered
+ORD1232,2023-03-20,CUST1200,Data Science Handbook,Books,Central,Indore,2,626.87,195.78,1253.74,391.56,862.18,68.77,Net Banking,Delivered
+ORD1233,2023-05-19,CUST1045,Rice Cooker,Home & Kitchen,North,Delhi,1,5685.28,3221.91,5685.28,3221.91,2463.37,43.33,Credit Card,Delivered
+ORD1234,2023-02-17,CUST1167,Casual Sneakers,Clothing,West,Surat,1,356.78,161.65,356.78,161.65,195.13,54.69,Cash on Delivery,Cancelled
+ORD1235,2023-10-14,CUST1267,Python Programming,Books,East,Guwahati,4,666.5,272.42,2666.0,1089.68,1576.32,59.13,Debit Card,Cancelled
+ORD1236,2023-02-02,CUST1142,Casual Sneakers,Clothing,South,Chennai,3,961.49,455.72,2884.47,1367.16,1517.31,52.6,Debit Card,Returned
+ORD1237,2023-11-17,CUST1101,Fiction Novel,Books,West,Mumbai,3,350.02,117.95,1050.06,353.85,696.21,66.3,Net Banking,Cancelled
+ORD1238,2023-11-14,CUST1226,Data Science Handbook,Books,South,Hyderabad,1,768.29,268.77,768.29,268.77,499.52,65.02,Net Banking,Delivered
+ORD1239,2023-04-13,CUST1091,Toaster Oven,Home & Kitchen,Central,Nagpur,3,2262.66,1452.84,6787.98,4358.52,2429.46,35.79,Net Banking,Delivered
+ORD1240,2023-05-24,CUST1059,Cooking Recipes,Books,East,Guwahati,5,668.18,233.12,3340.9,1165.6,2175.3,65.11,Net Banking,Delivered
+ORD1241,2023-12-29,CUST1150,Protein Powder,Sports & Fitness,Central,Nagpur,5,274.37,153.4,1371.85,767.0,604.85,44.09,Debit Card,Returned
+ORD1242,2023-08-05,CUST1230,Mechanical Keyboard,Electronics,West,Pune,3,1663.89,1079.53,4991.67,3238.59,1753.08,35.12,Net Banking,Delivered
+ORD1243,2023-12-21,CUST1019,Water Bottle,Sports & Fitness,Central,Raipur,5,1617.52,951.2,8087.6,4756.0,3331.6,41.19,Net Banking,Cancelled
+ORD1244,2023-10-16,CUST1221,Coffee Maker,Home & Kitchen,North,Chandigarh,3,1413.86,836.87,4241.58,2510.61,1730.97,40.81,Net Banking,Delivered
+ORD1245,2023-10-25,CUST1229,Wireless Earbuds,Electronics,North,Amritsar,2,2845.98,1786.76,5691.96,3573.52,2118.44,37.22,Cash on Delivery,Delivered
+ORD1246,2023-06-01,CUST1060,Toaster Oven,Home & Kitchen,West,Pune,3,5986.36,3426.69,17959.08,10280.07,7679.01,42.76,Net Banking,Delivered
+ORD1247,2023-06-28,CUST1225,Formal Shirt,Clothing,East,Patna,4,2024.39,968.0,8097.56,3872.0,4225.56,52.18,Net Banking,Delivered
+ORD1248,2023-06-25,CUST1125,Cooking Recipes,Books,North,Amritsar,1,685.11,217.36,685.11,217.36,467.75,68.27,Credit Card,Delivered
+ORD1249,2023-04-29,CUST1096,Dumbbell Set,Sports & Fitness,Central,Nagpur,3,1766.58,1048.94,5299.74,3146.82,2152.92,40.62,Net Banking,Delivered
+ORD1250,2023-12-27,CUST1143,History of AI,Books,North,Chandigarh,4,554.32,198.63,2217.28,794.52,1422.76,64.17,Debit Card,Delivered
+ORD1251,2023-05-15,CUST1161,Bluetooth Speaker,Electronics,Central,Nagpur,3,2033.33,1257.88,6099.99,3773.64,2326.35,38.14,Net Banking,Cancelled
+ORD1252,2023-08-23,CUST1153,Foam Roller,Sports & Fitness,Central,Raipur,5,518.85,260.88,2594.25,1304.4,1289.85,49.72,Cash on Delivery,Delivered
+ORD1253,2023-07-11,CUST1199,Resistance Bands,Sports & Fitness,South,Hyderabad,1,867.0,405.36,867.0,405.36,461.64,53.25,Debit Card,Cancelled
+ORD1254,2023-12-22,CUST1086,Business Strategy,Books,Central,Raipur,4,310.45,122.73,1241.8,490.92,750.88,60.47,Debit Card,Cancelled
+ORD1255,2023-07-03,CUST1070,Fiction Novel,Books,South,Chennai,3,704.19,276.68,2112.57,830.04,1282.53,60.71,Credit Card,Returned
+ORD1256,2023-08-16,CUST1043,Casual Sneakers,Clothing,Central,Raipur,4,1805.33,834.68,7221.32,3338.72,3882.6,53.77,Net Banking,Delivered
+ORD1257,2023-03-28,CUST1254,Yoga Mat,Sports & Fitness,South,Hyderabad,1,968.59,513.97,968.59,513.97,454.62,46.94,Net Banking,Cancelled
+ORD1258,2023-07-07,CUST1226,Resistance Bands,Sports & Fitness,Central,Bhopal,3,2369.32,1358.79,7107.96,4076.37,3031.59,42.65,Cash on Delivery,Delivered
+ORD1259,2023-08-19,CUST1045,Protein Powder,Sports & Fitness,West,Mumbai,2,1032.59,619.45,2065.18,1238.9,826.28,40.01,UPI,Delivered
+ORD1260,2023-11-09,CUST1072,Data Science Handbook,Books,South,Chennai,5,612.48,262.85,3062.4,1314.25,1748.15,57.08,Net Banking,Delivered
+ORD1261,2023-06-15,CUST1294,Winter Jacket,Clothing,North,Amritsar,5,917.39,441.1,4586.95,2205.5,2381.45,51.92,UPI,Delivered
+ORD1262,2023-03-06,CUST1075,Coffee Maker,Home & Kitchen,South,Kochi,1,5957.67,3753.67,5957.67,3753.67,2204.0,36.99,Debit Card,Delivered
+ORD1263,2023-08-01,CUST1039,Water Purifier,Home & Kitchen,West,Surat,2,3674.84,1985.54,7349.68,3971.08,3378.6,45.97,Net Banking,Returned
+ORD1264,2023-10-25,CUST1235,Mechanical Keyboard,Electronics,Central,Indore,3,2599.66,1620.13,7798.98,4860.39,2938.59,37.68,Credit Card,Delivered
+ORD1265,2023-09-11,CUST1146,Coffee Maker,Home & Kitchen,Central,Raipur,2,5823.71,3632.41,11647.42,7264.82,4382.6,37.63,UPI,Delivered
+ORD1266,2023-01-24,CUST1009,Non-stick Pan,Home & Kitchen,Central,Raipur,3,5416.85,3327.78,16250.55,9983.34,6267.21,38.57,Credit Card,Returned
+ORD1267,2023-12-19,CUST1082,Smart Watch,Electronics,West,Surat,1,4963.09,3048.18,4963.09,3048.18,1914.91,38.58,Debit Card,Delivered
+ORD1268,2023-03-26,CUST1157,Coffee Maker,Home & Kitchen,East,Patna,1,2544.14,1616.98,2544.14,1616.98,927.16,36.44,Credit Card,Returned
+ORD1269,2023-10-31,CUST1228,Casual Sneakers,Clothing,North,Delhi,1,768.53,316.4,768.53,316.4,452.13,58.83,Debit Card,Cancelled
+ORD1270,2023-04-28,CUST1053,Wireless Earbuds,Electronics,East,Kolkata,4,3652.74,2270.74,14610.96,9082.96,5528.0,37.83,Net Banking,Delivered
+ORD1271,2023-03-10,CUST1272,Webcam HD,Electronics,East,Patna,2,2282.97,1534.17,4565.94,3068.34,1497.6,32.8,Debit Card,Delivered
+ORD1272,2023-03-19,CUST1227,Yoga Mat,Sports & Fitness,Central,Nagpur,4,1182.33,569.83,4729.32,2279.32,2450.0,51.8,Net Banking,Cancelled
+ORD1273,2023-08-08,CUST1127,Women's Jeans,Clothing,North,Chandigarh,1,1596.06,730.36,1596.06,730.36,865.7,54.24,UPI,Delivered
+ORD1274,2023-06-04,CUST1261,Coffee Maker,Home & Kitchen,South,Hyderabad,1,5162.41,3091.05,5162.41,3091.05,2071.36,40.12,Debit Card,Cancelled
+ORD1275,2023-09-13,CUST1271,Casual Sneakers,Clothing,East,Kolkata,2,1387.75,578.57,2775.5,1157.14,1618.36,58.31,Cash on Delivery,Delivered
+ORD1276,2023-07-07,CUST1242,Webcam HD,Electronics,East,Bhubaneswar,4,4386.58,2786.61,17546.32,11146.44,6399.88,36.47,Cash on Delivery,Delivered
+ORD1277,2023-01-31,CUST1147,Wireless Earbuds,Electronics,Central,Bhopal,1,1752.62,974.41,1752.62,974.41,778.21,44.4,Net Banking,Cancelled
+ORD1278,2023-03-20,CUST1159,Foam Roller,Sports & Fitness,West,Surat,1,1992.5,1057.32,1992.5,1057.32,935.18,46.94,UPI,Delivered
+ORD1279,2023-11-29,CUST1224,USB-C Hub,Electronics,South,Hyderabad,4,3179.32,2112.61,12717.28,8450.44,4266.84,33.55,Credit Card,Delivered
+ORD1280,2023-01-29,CUST1062,Men's T-Shirt,Clothing,South,Bangalore,4,554.17,272.57,2216.68,1090.28,1126.4,50.81,UPI,Delivered
+ORD1281,2023-05-13,CUST1065,Smart Watch,Electronics,North,Chandigarh,4,4792.27,3011.71,19169.08,12046.84,7122.24,37.15,Debit Card,Delivered
+ORD1282,2023-12-31,CUST1255,Coffee Maker,Home & Kitchen,North,Amritsar,4,1994.89,1016.56,7979.56,4066.24,3913.32,49.04,Cash on Delivery,Delivered
+ORD1283,2023-02-22,CUST1117,Cooking Recipes,Books,North,Ludhiana,5,299.13,96.8,1495.65,484.0,1011.65,67.64,Cash on Delivery,Delivered
+ORD1284,2023-03-18,CUST1284,Yoga Mat,Sports & Fitness,North,Delhi,2,327.75,165.38,655.5,330.76,324.74,49.54,Debit Card,Delivered
+ORD1285,2023-02-09,CUST1062,Self Help Guide,Books,East,Bhubaneswar,4,748.51,260.47,2994.04,1041.88,1952.16,65.2,Cash on Delivery,Delivered
+ORD1286,2023-02-05,CUST1160,Yoga Mat,Sports & Fitness,South,Chennai,5,2946.96,1747.88,14734.8,8739.4,5995.4,40.69,Net Banking,Delivered
+ORD1287,2023-06-05,CUST1238,Coffee Maker,Home & Kitchen,Central,Raipur,1,2528.06,1374.61,2528.06,1374.61,1153.45,45.63,Cash on Delivery,Delivered
+ORD1288,2023-04-30,CUST1005,Vacuum Cleaner,Home & Kitchen,South,Chennai,2,534.08,299.89,1068.16,599.78,468.38,43.85,Cash on Delivery,Delivered
+ORD1289,2023-08-03,CUST1073,Air Fryer,Home & Kitchen,West,Ahmedabad,1,1627.57,1053.8,1627.57,1053.8,573.77,35.25,Net Banking,Delivered
+ORD1290,2023-08-23,CUST1049,Coffee Maker,Home & Kitchen,North,Chandigarh,5,2770.81,1757.63,13854.05,8788.15,5065.9,36.57,Credit Card,Cancelled
+ORD1291,2023-03-08,CUST1134,Dumbbell Set,Sports & Fitness,West,Mumbai,5,1788.9,921.73,8944.5,4608.65,4335.85,48.48,Debit Card,Delivered
+ORD1292,2023-04-14,CUST1056,Toaster Oven,Home & Kitchen,East,Patna,4,1994.76,1019.73,7979.04,4078.92,3900.12,48.88,Debit Card,Cancelled
+ORD1293,2023-07-03,CUST1158,Women's Jeans,Clothing,South,Kochi,4,989.87,413.88,3959.48,1655.52,2303.96,58.19,Debit Card,Returned
+ORD1294,2023-12-27,CUST1111,Fiction Novel,Books,North,Delhi,2,683.56,236.26,1367.12,472.52,894.6,65.44,Cash on Delivery,Delivered
+ORD1295,2023-06-03,CUST1016,Non-stick Pan,Home & Kitchen,North,Chandigarh,3,2678.34,1358.84,8035.02,4076.52,3958.5,49.27,UPI,Delivered
+ORD1296,2023-03-13,CUST1032,Marketing Basics,Books,Central,Nagpur,1,476.23,200.29,476.23,200.29,275.94,57.94,Credit Card,Delivered
+ORD1297,2023-02-13,CUST1133,Running Shoes,Clothing,South,Kochi,3,1808.83,977.92,5426.49,2933.76,2492.73,45.94,Cash on Delivery,Cancelled
+ORD1298,2023-06-19,CUST1237,Wireless Earbuds,Electronics,North,Chandigarh,4,4159.91,2345.34,16639.64,9381.36,7258.28,43.62,Credit Card,Delivered
+ORD1299,2023-08-07,CUST1110,Smart Watch,Electronics,Central,Raipur,4,2781.96,1689.79,11127.84,6759.16,4368.68,39.26,Debit Card,Delivered
+ORD1300,2023-05-06,CUST1211,Sports Shorts,Clothing,East,Guwahati,2,375.23,184.94,750.46,369.88,380.58,50.71,UPI,Returned
+ORD1301,2023-11-26,CUST1279,Water Bottle,Sports & Fitness,North,Delhi,3,1271.44,652.1,3814.32,1956.3,1858.02,48.71,Cash on Delivery,Delivered
+ORD1302,2023-10-17,CUST1199,Mechanical Keyboard,Electronics,East,Guwahati,5,4037.31,2428.87,20186.55,12144.35,8042.2,39.84,Cash on Delivery,Delivered
+ORD1303,2023-05-24,CUST1272,Non-stick Pan,Home & Kitchen,North,Amritsar,5,1703.61,1080.71,8518.05,5403.55,3114.5,36.56,Credit Card,Returned
+ORD1304,2023-01-29,CUST1199,Water Purifier,Home & Kitchen,South,Bangalore,2,4111.75,2220.26,8223.5,4440.52,3782.98,46.0,Debit Card,Cancelled
+ORD1305,2023-07-03,CUST1181,Non-stick Pan,Home & Kitchen,South,Chennai,5,2248.02,1372.9,11240.1,6864.5,4375.6,38.93,Cash on Delivery,Delivered
+ORD1306,2023-01-20,CUST1120,Dumbbell Set,Sports & Fitness,Central,Nagpur,4,1716.95,817.84,6867.8,3271.36,3596.44,52.37,Credit Card,Delivered
+ORD1307,2023-03-08,CUST1166,Protein Powder,Sports & Fitness,North,Ludhiana,1,1127.86,611.44,1127.86,611.44,516.42,45.79,UPI,Delivered
+ORD1308,2023-02-07,CUST1052,Wireless Earbuds,Electronics,South,Chennai,1,4323.52,2936.1,4323.52,2936.1,1387.42,32.09,UPI,Returned
+ORD1309,2023-11-24,CUST1090,Blender,Home & Kitchen,East,Bhubaneswar,2,4526.94,2560.12,9053.88,5120.24,3933.64,43.45,Net Banking,Delivered
+ORD1310,2023-03-07,CUST1294,Jump Rope,Sports & Fitness,South,Chennai,4,1058.11,585.43,4232.44,2341.72,1890.72,44.67,Debit Card,Delivered
+ORD1311,2023-09-12,CUST1040,Python Programming,Books,South,Hyderabad,5,331.54,127.59,1657.7,637.95,1019.75,61.52,Debit Card,Delivered
+ORD1312,2023-06-21,CUST1136,Formal Shirt,Clothing,East,Bhubaneswar,1,2106.66,1054.39,2106.66,1054.39,1052.27,49.95,Net Banking,Delivered
+ORD1313,2023-01-25,CUST1215,Winter Jacket,Clothing,North,Amritsar,3,2030.44,1031.59,6091.32,3094.77,2996.55,49.19,Net Banking,Returned
+ORD1314,2023-09-03,CUST1084,Casual Sneakers,Clothing,West,Surat,3,1500.25,622.93,4500.75,1868.79,2631.96,58.48,Cash on Delivery,Delivered
+ORD1315,2023-02-07,CUST1193,Data Science Handbook,Books,North,Amritsar,1,390.23,172.77,390.23,172.77,217.46,55.73,UPI,Delivered
+ORD1316,2023-09-05,CUST1085,Women's Jeans,Clothing,Central,Bhopal,3,1605.87,790.16,4817.61,2370.48,2447.13,50.8,Credit Card,Returned
+ORD1317,2023-07-29,CUST1136,Foam Roller,Sports & Fitness,South,Bangalore,1,1126.06,671.31,1126.06,671.31,454.75,40.38,Cash on Delivery,Cancelled
+ORD1318,2023-09-09,CUST1185,Blender,Home & Kitchen,South,Bangalore,1,2659.96,1549.29,2659.96,1549.29,1110.67,41.76,Debit Card,Delivered
+ORD1319,2023-04-16,CUST1042,Mechanical Keyboard,Electronics,North,Amritsar,5,2712.44,1531.3,13562.2,7656.5,5905.7,43.55,Debit Card,Delivered
+ORD1320,2023-02-16,CUST1095,Data Science Handbook,Books,East,Guwahati,4,492.46,196.57,1969.84,786.28,1183.56,60.08,Cash on Delivery,Returned
+ORD1321,2023-05-15,CUST1289,Toaster Oven,Home & Kitchen,East,Bhubaneswar,4,744.39,421.3,2977.56,1685.2,1292.36,43.4,Debit Card,Delivered
+ORD1322,2023-10-29,CUST1032,Smart Watch,Electronics,North,Delhi,3,4154.99,2543.26,12464.97,7629.78,4835.19,38.79,Debit Card,Cancelled
+ORD1323,2023-02-10,CUST1258,History of AI,Books,Central,Raipur,5,727.99,270.4,3639.95,1352.0,2287.95,62.86,Net Banking,Delivered
+ORD1324,2023-04-19,CUST1022,Dumbbell Set,Sports & Fitness,North,Ludhiana,2,2856.37,1356.99,5712.74,2713.98,2998.76,52.49,Debit Card,Delivered
+ORD1325,2023-02-04,CUST1285,Data Science Handbook,Books,West,Pune,2,699.46,236.9,1398.92,473.8,925.12,66.13,Credit Card,Returned
+ORD1326,2023-09-25,CUST1213,Cooking Recipes,Books,East,Guwahati,1,670.93,263.98,670.93,263.98,406.95,60.65,Net Banking,Delivered
+ORD1327,2023-05-27,CUST1211,Running Shoes,Clothing,Central,Bhopal,1,1536.9,638.04,1536.9,638.04,898.86,58.49,Cash on Delivery,Delivered
+ORD1328,2023-11-13,CUST1020,Toaster Oven,Home & Kitchen,West,Surat,1,1446.1,810.46,1446.1,810.46,635.64,43.96,Cash on Delivery,Returned
+ORD1329,2023-01-11,CUST1160,Cooking Recipes,Books,South,Bangalore,4,751.5,326.57,3006.0,1306.28,1699.72,56.54,UPI,Delivered
+ORD1330,2023-06-14,CUST1046,Vacuum Cleaner,Home & Kitchen,North,Chandigarh,2,2151.64,1315.85,4303.28,2631.7,1671.58,38.84,UPI,Returned
+ORD1331,2023-01-29,CUST1034,Woolen Sweater,Clothing,South,Kochi,4,1969.89,1044.2,7879.56,4176.8,3702.76,46.99,Cash on Delivery,Delivered
+ORD1332,2023-01-30,CUST1234,Toaster Oven,Home & Kitchen,South,Bangalore,2,1559.2,974.41,3118.4,1948.82,1169.58,37.51,Debit Card,Delivered
+ORD1333,2023-11-22,CUST1124,Webcam HD,Electronics,South,Hyderabad,3,4222.43,2642.27,12667.29,7926.81,4740.48,37.42,Credit Card,Delivered
+ORD1334,2023-10-10,CUST1084,Vacuum Cleaner,Home & Kitchen,Central,Raipur,2,5781.86,3302.53,11563.72,6605.06,4958.66,42.88,UPI,Delivered
+ORD1335,2023-04-20,CUST1106,Coffee Maker,Home & Kitchen,East,Kolkata,4,772.08,484.92,3088.32,1939.68,1148.64,37.19,Debit Card,Delivered
+ORD1336,2023-03-30,CUST1115,Toaster Oven,Home & Kitchen,Central,Bhopal,1,3106.53,1614.92,3106.53,1614.92,1491.61,48.02,Cash on Delivery,Delivered
+ORD1337,2023-04-22,CUST1267,Blender,Home & Kitchen,East,Guwahati,4,5182.72,2948.19,20730.88,11792.76,8938.12,43.12,Net Banking,Delivered
+ORD1338,2023-07-11,CUST1145,Foam Roller,Sports & Fitness,Central,Bhopal,1,1631.24,896.13,1631.24,896.13,735.11,45.06,Cash on Delivery,Cancelled
+ORD1339,2023-05-22,CUST1097,Coffee Maker,Home & Kitchen,West,Mumbai,3,5934.99,3537.78,17804.97,10613.34,7191.63,40.39,UPI,Delivered
+ORD1340,2023-12-02,CUST1133,Winter Jacket,Clothing,North,Ludhiana,3,1796.66,913.05,5389.98,2739.15,2650.83,49.18,Net Banking,Delivered
+ORD1341,2023-04-08,CUST1274,History of AI,Books,West,Mumbai,5,623.84,240.68,3119.2,1203.4,1915.8,61.42,UPI,Delivered
+ORD1342,2023-04-03,CUST1242,Cooking Recipes,Books,Central,Indore,2,703.38,303.49,1406.76,606.98,799.78,56.85,UPI,Delivered
+ORD1343,2023-04-25,CUST1170,Sports Shorts,Clothing,Central,Nagpur,3,1738.76,753.47,5216.28,2260.41,2955.87,56.67,UPI,Returned
+ORD1344,2023-11-21,CUST1037,Blender,Home & Kitchen,Central,Indore,4,5180.68,2955.99,20722.72,11823.96,8898.76,42.94,Cash on Delivery,Cancelled
+ORD1345,2023-03-19,CUST1176,Self Help Guide,Books,Central,Bhopal,4,516.9,187.1,2067.6,748.4,1319.2,63.8,Debit Card,Delivered
+ORD1346,2023-11-20,CUST1030,Marketing Basics,Books,South,Hyderabad,2,666.36,248.64,1332.72,497.28,835.44,62.69,Debit Card,Delivered
+ORD1347,2023-02-15,CUST1223,Gaming Mouse,Electronics,East,Bhubaneswar,2,3134.63,1798.54,6269.26,3597.08,2672.18,42.62,Debit Card,Cancelled
+ORD1348,2023-07-11,CUST1272,History of AI,Books,West,Surat,4,201.8,76.7,807.2,306.8,500.4,61.99,Credit Card,Delivered
+ORD1349,2023-03-08,CUST1258,Men's T-Shirt,Clothing,North,Chandigarh,2,1824.75,824.15,3649.5,1648.3,2001.2,54.83,Credit Card,Returned
+ORD1350,2023-09-24,CUST1173,Cycling Gloves,Sports & Fitness,South,Bangalore,1,1033.97,510.39,1033.97,510.39,523.58,50.64,Cash on Delivery,Cancelled
+ORD1351,2023-07-26,CUST1115,Business Strategy,Books,East,Guwahati,3,649.07,210.77,1947.21,632.31,1314.9,67.53,Credit Card,Delivered
+ORD1352,2023-01-20,CUST1274,Winter Jacket,Clothing,North,Chandigarh,1,1105.5,550.08,1105.5,550.08,555.42,50.24,Net Banking,Delivered
+ORD1353,2023-12-20,CUST1228,Yoga Mat,Sports & Fitness,Central,Bhopal,1,2028.99,919.05,2028.99,919.05,1109.94,54.7,Credit Card,Returned
+ORD1354,2023-12-18,CUST1216,Data Science Handbook,Books,Central,Indore,4,620.12,205.15,2480.48,820.6,1659.88,66.92,Credit Card,Delivered
+ORD1355,2023-11-13,CUST1059,Laptop Stand,Electronics,Central,Nagpur,4,4253.87,2406.57,17015.48,9626.28,7389.2,43.43,Credit Card,Delivered
+ORD1356,2023-07-03,CUST1083,Gaming Mouse,Electronics,South,Chennai,3,4257.59,2963.15,12772.77,8889.45,3883.32,30.4,Net Banking,Delivered
+ORD1357,2023-02-15,CUST1253,Gaming Mouse,Electronics,South,Kochi,3,1630.82,900.07,4892.46,2700.21,2192.25,44.81,Credit Card,Cancelled
+ORD1358,2023-08-22,CUST1238,Women's Jeans,Clothing,Central,Bhopal,1,2289.51,1137.09,2289.51,1137.09,1152.42,50.33,UPI,Delivered
+ORD1359,2023-08-07,CUST1024,Bluetooth Speaker,Electronics,South,Bangalore,3,2183.94,1422.87,6551.82,4268.61,2283.21,34.85,Credit Card,Delivered
+ORD1360,2023-05-18,CUST1176,Smart Watch,Electronics,South,Hyderabad,3,4534.92,3143.89,13604.76,9431.67,4173.09,30.67,Credit Card,Delivered
+ORD1361,2023-09-02,CUST1058,Women's Jeans,Clothing,West,Surat,4,897.03,410.71,3588.12,1642.84,1945.28,54.21,Net Banking,Delivered
+ORD1362,2023-10-19,CUST1195,Men's T-Shirt,Clothing,South,Bangalore,4,2303.7,1088.27,9214.8,4353.08,4861.72,52.76,Net Banking,Delivered
+ORD1363,2023-01-24,CUST1161,Air Fryer,Home & Kitchen,South,Kochi,4,1120.16,629.19,4480.64,2516.76,1963.88,43.83,Credit Card,Delivered
+ORD1364,2023-06-27,CUST1286,USB-C Hub,Electronics,East,Kolkata,4,3510.54,2061.69,14042.16,8246.76,5795.4,41.27,Net Banking,Delivered
+ORD1365,2023-03-26,CUST1165,Yoga Mat,Sports & Fitness,North,Chandigarh,5,2575.77,1488.23,12878.85,7441.15,5437.7,42.22,Credit Card,Returned
+ORD1366,2023-07-26,CUST1236,Formal Shirt,Clothing,East,Kolkata,5,788.95,391.71,3944.75,1958.55,1986.2,50.35,Debit Card,Delivered
+ORD1367,2023-12-01,CUST1207,Marketing Basics,Books,North,Ludhiana,4,388.64,173.76,1554.56,695.04,859.52,55.29,Credit Card,Delivered
+ORD1368,2023-11-23,CUST1288,Python Programming,Books,Central,Bhopal,1,674.07,299.61,674.07,299.61,374.46,55.55,UPI,Cancelled
+ORD1369,2023-06-19,CUST1243,Woolen Sweater,Clothing,East,Patna,1,2095.5,1103.59,2095.5,1103.59,991.91,47.34,Cash on Delivery,Cancelled
+ORD1370,2023-11-21,CUST1268,Vacuum Cleaner,Home & Kitchen,North,Delhi,2,511.08,282.77,1022.16,565.54,456.62,44.67,UPI,Cancelled
+ORD1371,2023-07-29,CUST1101,Coffee Maker,Home & Kitchen,North,Chandigarh,4,1271.47,772.45,5085.88,3089.8,1996.08,39.25,Credit Card,Delivered
+ORD1372,2023-06-23,CUST1024,Women's Jeans,Clothing,West,Pune,4,2113.02,905.61,8452.08,3622.44,4829.64,57.14,Credit Card,Returned
+ORD1373,2023-09-13,CUST1025,Resistance Bands,Sports & Fitness,West,Surat,5,2876.33,1352.44,14381.65,6762.2,7619.45,52.98,Credit Card,Cancelled
+ORD1374,2023-12-21,CUST1066,Foam Roller,Sports & Fitness,Central,Raipur,5,2386.03,1399.47,11930.15,6997.35,4932.8,41.35,Cash on Delivery,Delivered
+ORD1375,2023-11-08,CUST1204,Mechanical Keyboard,Electronics,Central,Indore,5,4477.12,2743.58,22385.6,13717.9,8667.7,38.72,Debit Card,Delivered
+ORD1376,2023-09-20,CUST1161,Blender,Home & Kitchen,West,Pune,2,2769.1,1675.31,5538.2,3350.62,2187.58,39.5,UPI,Cancelled
+ORD1377,2023-12-11,CUST1258,Protein Powder,Sports & Fitness,South,Chennai,5,2199.28,1216.18,10996.4,6080.9,4915.5,44.7,Debit Card,Delivered
+ORD1378,2023-12-08,CUST1147,Jump Rope,Sports & Fitness,North,Amritsar,5,1544.04,826.98,7720.2,4134.9,3585.3,46.44,Net Banking,Cancelled
+ORD1379,2023-01-29,CUST1083,Python Programming,Books,Central,Bhopal,1,427.52,131.66,427.52,131.66,295.86,69.2,Debit Card,Delivered
+ORD1380,2023-07-03,CUST1288,Blender,Home & Kitchen,South,Bangalore,3,1621.0,942.09,4863.0,2826.27,2036.73,41.88,Net Banking,Delivered
+ORD1381,2023-12-17,CUST1028,Casual Sneakers,Clothing,South,Hyderabad,1,2337.27,1070.78,2337.27,1070.78,1266.49,54.19,UPI,Cancelled
+ORD1382,2023-11-28,CUST1280,Laptop Stand,Electronics,South,Kochi,2,4609.54,3022.45,9219.08,6044.9,3174.18,34.43,UPI,Cancelled
+ORD1383,2023-04-06,CUST1062,Protein Powder,Sports & Fitness,South,Hyderabad,4,695.79,384.35,2783.16,1537.4,1245.76,44.76,Debit Card,Cancelled
+ORD1384,2023-05-11,CUST1239,Python Programming,Books,West,Ahmedabad,5,357.54,115.89,1787.7,579.45,1208.25,67.59,Credit Card,Delivered
+ORD1385,2023-11-12,CUST1294,Men's T-Shirt,Clothing,South,Hyderabad,5,410.88,221.82,2054.4,1109.1,945.3,46.01,UPI,Returned
+ORD1386,2023-02-04,CUST1213,Jump Rope,Sports & Fitness,North,Amritsar,5,814.89,389.18,4074.45,1945.9,2128.55,52.24,Cash on Delivery,Delivered
+ORD1387,2023-06-19,CUST1112,Foam Roller,Sports & Fitness,North,Amritsar,2,2672.51,1468.54,5345.02,2937.08,2407.94,45.05,UPI,Delivered
+ORD1388,2023-11-25,CUST1125,Water Bottle,Sports & Fitness,Central,Bhopal,1,2072.03,1070.93,2072.03,1070.93,1001.1,48.31,Cash on Delivery,Cancelled
+ORD1389,2023-01-13,CUST1264,Webcam HD,Electronics,West,Mumbai,4,1728.0,1138.05,6912.0,4552.2,2359.8,34.14,Cash on Delivery,Delivered
+ORD1390,2023-09-21,CUST1086,Water Bottle,Sports & Fitness,West,Mumbai,3,2714.19,1299.76,8142.57,3899.28,4243.29,52.11,Credit Card,Delivered
+ORD1391,2023-02-23,CUST1223,Yoga Mat,Sports & Fitness,North,Chandigarh,2,2620.86,1346.16,5241.72,2692.32,2549.4,48.64,Debit Card,Cancelled
+ORD1392,2023-04-02,CUST1037,Smart Watch,Electronics,North,Ludhiana,3,765.7,429.55,2297.1,1288.65,1008.45,43.9,UPI,Cancelled
+ORD1393,2023-06-11,CUST1061,Protein Powder,Sports & Fitness,East,Guwahati,4,1462.15,746.67,5848.6,2986.68,2861.92,48.93,Credit Card,Returned
+ORD1394,2023-07-03,CUST1149,Yoga Mat,Sports & Fitness,Central,Bhopal,5,326.45,188.44,1632.25,942.2,690.05,42.28,Cash on Delivery,Delivered
+ORD1395,2023-08-31,CUST1113,Coffee Maker,Home & Kitchen,East,Guwahati,4,2672.12,1600.89,10688.48,6403.56,4284.92,40.09,Debit Card,Cancelled
+ORD1396,2023-11-28,CUST1284,Casual Sneakers,Clothing,Central,Indore,2,954.72,508.91,1909.44,1017.82,891.62,46.7,UPI,Delivered
+ORD1397,2023-10-08,CUST1108,Dumbbell Set,Sports & Fitness,North,Delhi,1,1802.61,917.73,1802.61,917.73,884.88,49.09,Credit Card,Delivered
+ORD1398,2023-05-10,CUST1093,Water Purifier,Home & Kitchen,West,Pune,2,1510.96,895.29,3021.92,1790.58,1231.34,40.75,Debit Card,Delivered
+ORD1399,2023-05-09,CUST1298,Yoga Mat,Sports & Fitness,Central,Raipur,5,403.8,222.39,2019.0,1111.95,907.05,44.93,Credit Card,Delivered
+ORD1400,2023-04-10,CUST1231,Cooking Recipes,Books,East,Bhubaneswar,2,259.03,101.78,518.06,203.56,314.5,60.71,UPI,Returned
+ORD1401,2023-08-08,CUST1161,Blender,Home & Kitchen,Central,Nagpur,5,3616.74,2246.56,18083.7,11232.8,6850.9,37.88,Debit Card,Delivered
+ORD1402,2023-09-03,CUST1184,Winter Jacket,Clothing,West,Ahmedabad,3,594.47,303.15,1783.41,909.45,873.96,49.0,Net Banking,Returned
+ORD1403,2023-05-24,CUST1101,Vacuum Cleaner,Home & Kitchen,Central,Bhopal,2,4049.53,2074.56,8099.06,4149.12,3949.94,48.77,Debit Card,Cancelled
+ORD1404,2023-10-24,CUST1109,Coffee Maker,Home & Kitchen,North,Delhi,5,3972.95,2470.76,19864.75,12353.8,7510.95,37.81,Net Banking,Cancelled
+ORD1405,2023-10-29,CUST1238,Laptop Stand,Electronics,Central,Raipur,2,2208.6,1288.71,4417.2,2577.42,1839.78,41.65,UPI,Delivered
+ORD1406,2023-11-11,CUST1072,Resistance Bands,Sports & Fitness,West,Ahmedabad,5,228.66,111.09,1143.3,555.45,587.85,51.42,Debit Card,Cancelled
+ORD1407,2023-09-07,CUST1136,Business Strategy,Books,South,Chennai,4,762.51,233.38,3050.04,933.52,2116.52,69.39,Debit Card,Delivered
+ORD1408,2023-08-29,CUST1021,Water Purifier,Home & Kitchen,North,Chandigarh,5,5491.49,3043.32,27457.45,15216.6,12240.85,44.58,Net Banking,Delivered
+ORD1409,2023-07-12,CUST1040,Coffee Maker,Home & Kitchen,Central,Indore,3,3681.47,2155.59,11044.41,6466.77,4577.64,41.45,Net Banking,Delivered
+ORD1410,2023-06-26,CUST1004,Cycling Gloves,Sports & Fitness,West,Pune,5,1335.36,764.61,6676.8,3823.05,2853.75,42.74,Net Banking,Returned
+ORD1411,2023-04-19,CUST1081,Dumbbell Set,Sports & Fitness,West,Pune,2,414.85,226.72,829.7,453.44,376.26,45.35,Debit Card,Delivered
+ORD1412,2023-09-03,CUST1083,Coffee Maker,Home & Kitchen,South,Kochi,3,4460.41,2552.37,13381.23,7657.11,5724.12,42.78,Net Banking,Delivered
+ORD1413,2023-11-19,CUST1294,Python Programming,Books,South,Bangalore,2,543.09,176.05,1086.18,352.1,734.08,67.58,Cash on Delivery,Delivered
+ORD1414,2023-10-16,CUST1044,Men's T-Shirt,Clothing,South,Hyderabad,2,1435.61,661.56,2871.22,1323.12,1548.1,53.92,Credit Card,Delivered
+ORD1415,2023-11-04,CUST1094,Woolen Sweater,Clothing,Central,Raipur,4,674.25,353.68,2697.0,1414.72,1282.28,47.54,Debit Card,Cancelled
+ORD1416,2023-07-13,CUST1056,Cycling Gloves,Sports & Fitness,South,Hyderabad,4,1869.29,860.48,7477.16,3441.92,4035.24,53.97,Net Banking,Delivered
+ORD1417,2023-11-11,CUST1273,USB-C Hub,Electronics,Central,Raipur,2,3263.25,1881.63,6526.5,3763.26,2763.24,42.34,Cash on Delivery,Delivered
+ORD1418,2023-01-01,CUST1216,Resistance Bands,Sports & Fitness,North,Ludhiana,2,2724.56,1446.45,5449.12,2892.9,2556.22,46.91,Net Banking,Cancelled
+ORD1419,2023-07-15,CUST1295,Air Fryer,Home & Kitchen,Central,Raipur,2,5660.32,3239.51,11320.64,6479.02,4841.62,42.77,UPI,Cancelled
+ORD1420,2023-02-12,CUST1279,Mechanical Keyboard,Electronics,South,Hyderabad,4,3968.78,2724.62,15875.12,10898.48,4976.64,31.35,UPI,Cancelled
+ORD1421,2023-01-04,CUST1162,Fiction Novel,Books,South,Bangalore,1,545.79,173.38,545.79,173.38,372.41,68.23,Net Banking,Delivered
+ORD1422,2023-10-02,CUST1188,Cooking Recipes,Books,North,Chandigarh,4,589.95,199.43,2359.8,797.72,1562.08,66.2,Net Banking,Cancelled
+ORD1423,2023-04-02,CUST1285,Cycling Gloves,Sports & Fitness,West,Pune,4,1744.89,931.13,6979.56,3724.52,3255.04,46.64,UPI,Cancelled
+ORD1424,2023-12-04,CUST1229,Fiction Novel,Books,East,Patna,4,640.47,274.28,2561.88,1097.12,1464.76,57.18,Credit Card,Delivered
+ORD1425,2023-12-17,CUST1200,Women's Jeans,Clothing,South,Kochi,3,2060.88,1014.17,6182.64,3042.51,3140.13,50.79,Credit Card,Delivered
+ORD1426,2023-04-24,CUST1020,Bluetooth Speaker,Electronics,South,Kochi,5,2514.66,1407.23,12573.3,7036.15,5537.15,44.04,UPI,Delivered
+ORD1427,2023-03-31,CUST1006,History of AI,Books,Central,Indore,5,233.48,97.14,1167.4,485.7,681.7,58.39,Net Banking,Returned
+ORD1428,2023-11-11,CUST1185,Sports Shorts,Clothing,South,Bangalore,5,1422.21,717.89,7111.05,3589.45,3521.6,49.52,Debit Card,Delivered
+ORD1429,2023-07-22,CUST1103,Men's T-Shirt,Clothing,South,Bangalore,3,2014.28,912.41,6042.84,2737.23,3305.61,54.7,Net Banking,Cancelled
+ORD1430,2023-10-26,CUST1142,Yoga Mat,Sports & Fitness,North,Delhi,5,995.58,571.93,4977.9,2859.65,2118.25,42.55,UPI,Delivered
+ORD1431,2023-09-17,CUST1038,Winter Jacket,Clothing,West,Surat,5,309.23,131.81,1546.15,659.05,887.1,57.37,Credit Card,Cancelled
+ORD1432,2023-10-22,CUST1194,Cycling Gloves,Sports & Fitness,East,Kolkata,5,2877.79,1673.2,14388.95,8366.0,6022.95,41.86,UPI,Returned
+ORD1433,2023-01-15,CUST1133,Water Bottle,Sports & Fitness,South,Hyderabad,4,2107.47,1231.77,8429.88,4927.08,3502.8,41.55,Net Banking,Delivered
+ORD1434,2023-10-02,CUST1128,Mechanical Keyboard,Electronics,South,Chennai,3,2413.67,1455.36,7241.01,4366.08,2874.93,39.7,Credit Card,Delivered
+ORD1435,2023-06-10,CUST1294,Coffee Maker,Home & Kitchen,West,Ahmedabad,1,3549.03,1869.53,3549.03,1869.53,1679.5,47.32,UPI,Delivered
+ORD1436,2023-05-16,CUST1104,Non-stick Pan,Home & Kitchen,South,Kochi,2,1790.74,960.39,3581.48,1920.78,1660.7,46.37,Debit Card,Delivered
+ORD1437,2023-12-06,CUST1004,Formal Shirt,Clothing,South,Bangalore,1,2323.41,1164.89,2323.41,1164.89,1158.52,49.86,Net Banking,Cancelled
+ORD1438,2023-10-22,CUST1094,Yoga Mat,Sports & Fitness,West,Ahmedabad,5,1082.17,632.76,5410.85,3163.8,2247.05,41.53,UPI,Returned
+ORD1439,2023-08-05,CUST1017,Cycling Gloves,Sports & Fitness,West,Pune,5,558.09,295.15,2790.45,1475.75,1314.7,47.11,Net Banking,Cancelled
+ORD1440,2023-08-24,CUST1007,Jump Rope,Sports & Fitness,West,Pune,4,2933.22,1627.16,11732.88,6508.64,5224.24,44.53,UPI,Delivered
+ORD1441,2023-04-06,CUST1122,Casual Sneakers,Clothing,Central,Bhopal,3,1094.53,579.31,3283.59,1737.93,1545.66,47.07,Cash on Delivery,Delivered
+ORD1442,2023-08-03,CUST1206,Vacuum Cleaner,Home & Kitchen,Central,Indore,3,1510.53,851.32,4531.59,2553.96,1977.63,43.64,UPI,Delivered
+ORD1443,2023-05-19,CUST1222,Vacuum Cleaner,Home & Kitchen,South,Chennai,5,4272.07,2657.78,21360.35,13288.9,8071.45,37.79,Debit Card,Cancelled
+ORD1444,2023-09-13,CUST1274,Self Help Guide,Books,South,Chennai,4,682.4,222.8,2729.6,891.2,1838.4,67.35,Debit Card,Cancelled
+ORD1445,2023-02-20,CUST1111,Vacuum Cleaner,Home & Kitchen,East,Patna,5,5220.76,2647.74,26103.8,13238.7,12865.1,49.28,Debit Card,Delivered
+ORD1446,2023-10-13,CUST1011,Vacuum Cleaner,Home & Kitchen,North,Ludhiana,3,1927.73,1068.05,5783.19,3204.15,2579.04,44.6,UPI,Delivered
+ORD1447,2023-03-31,CUST1167,Data Science Handbook,Books,East,Bhubaneswar,5,544.54,216.38,2722.7,1081.9,1640.8,60.26,UPI,Delivered
+ORD1448,2023-03-16,CUST1216,Water Bottle,Sports & Fitness,West,Mumbai,4,1917.26,996.14,7669.04,3984.56,3684.48,48.04,Debit Card,Delivered
+ORD1449,2023-12-01,CUST1203,Foam Roller,Sports & Fitness,North,Delhi,2,1161.15,577.12,2322.3,1154.24,1168.06,50.3,UPI,Delivered
+ORD1450,2023-03-06,CUST1041,Vacuum Cleaner,Home & Kitchen,East,Guwahati,4,1419.25,891.48,5677.0,3565.92,2111.08,37.19,Debit Card,Delivered
+ORD1451,2023-10-08,CUST1204,Running Shoes,Clothing,West,Mumbai,1,439.34,233.64,439.34,233.64,205.7,46.82,Credit Card,Delivered
+ORD1452,2023-07-19,CUST1127,Resistance Bands,Sports & Fitness,North,Amritsar,5,633.77,347.45,3168.85,1737.25,1431.6,45.18,UPI,Delivered
+ORD1453,2023-12-06,CUST1244,Vacuum Cleaner,Home & Kitchen,South,Chennai,5,5110.85,2577.33,25554.25,12886.65,12667.6,49.57,UPI,Delivered
+ORD1454,2023-04-01,CUST1234,Fiction Novel,Books,Central,Raipur,2,780.73,315.92,1561.46,631.84,929.62,59.54,Cash on Delivery,Cancelled
+ORD1455,2023-02-15,CUST1188,Foam Roller,Sports & Fitness,Central,Indore,3,1547.62,749.16,4642.86,2247.48,2395.38,51.59,Net Banking,Delivered
+ORD1456,2023-03-11,CUST1241,Fiction Novel,Books,South,Hyderabad,1,199.06,84.06,199.06,84.06,115.0,57.77,UPI,Delivered
+ORD1457,2023-05-30,CUST1004,Yoga Mat,Sports & Fitness,West,Surat,3,224.57,115.56,673.71,346.68,327.03,48.54,Cash on Delivery,Delivered
+ORD1458,2023-11-27,CUST1113,Jump Rope,Sports & Fitness,South,Kochi,5,1422.9,693.64,7114.5,3468.2,3646.3,51.25,Net Banking,Returned
+ORD1459,2023-12-22,CUST1273,Coffee Maker,Home & Kitchen,West,Pune,5,4703.96,2994.04,23519.8,14970.2,8549.6,36.35,UPI,Delivered
+ORD1460,2023-08-22,CUST1140,Toaster Oven,Home & Kitchen,South,Bangalore,2,1250.43,645.91,2500.86,1291.82,1209.04,48.34,Cash on Delivery,Returned
+ORD1461,2023-01-12,CUST1145,Water Bottle,Sports & Fitness,South,Hyderabad,1,625.02,372.17,625.02,372.17,252.85,40.45,Debit Card,Delivered
+ORD1462,2023-04-22,CUST1160,Non-stick Pan,Home & Kitchen,West,Mumbai,2,995.08,499.74,1990.16,999.48,990.68,49.78,UPI,Returned
+ORD1463,2023-03-16,CUST1201,Cooking Recipes,Books,West,Mumbai,3,247.13,101.96,741.39,305.88,435.51,58.74,Credit Card,Delivered
+ORD1464,2023-03-04,CUST1227,Gaming Mouse,Electronics,South,Chennai,3,4194.9,2828.36,12584.7,8485.08,4099.62,32.58,Debit Card,Returned
+ORD1465,2023-08-31,CUST1166,Men's T-Shirt,Clothing,South,Kochi,1,1445.51,791.15,1445.51,791.15,654.36,45.27,Net Banking,Delivered
+ORD1466,2023-07-04,CUST1058,Men's T-Shirt,Clothing,Central,Bhopal,3,1357.71,603.94,4073.13,1811.82,2261.31,55.52,Credit Card,Delivered
+ORD1467,2023-07-22,CUST1022,Casual Sneakers,Clothing,East,Kolkata,2,2046.66,998.17,4093.32,1996.34,2096.98,51.23,Debit Card,Delivered
+ORD1468,2023-09-13,CUST1174,Water Bottle,Sports & Fitness,Central,Nagpur,3,2357.23,1148.7,7071.69,3446.1,3625.59,51.27,Credit Card,Cancelled
+ORD1469,2023-04-30,CUST1178,Wireless Earbuds,Electronics,East,Bhubaneswar,5,4081.45,2321.83,20407.25,11609.15,8798.1,43.11,UPI,Cancelled
+ORD1470,2023-01-21,CUST1287,Self Help Guide,Books,North,Ludhiana,3,633.64,213.92,1900.92,641.76,1259.16,66.24,Net Banking,Returned
+ORD1471,2023-05-21,CUST1083,Vacuum Cleaner,Home & Kitchen,South,Chennai,5,2411.16,1470.47,12055.8,7352.35,4703.45,39.01,Cash on Delivery,Cancelled
+ORD1472,2023-11-23,CUST1095,Smart Watch,Electronics,West,Ahmedabad,3,2982.07,1843.25,8946.21,5529.75,3416.46,38.19,Cash on Delivery,Returned
+ORD1473,2023-10-03,CUST1269,Webcam HD,Electronics,Central,Nagpur,3,3771.42,2446.68,11314.26,7340.04,3974.22,35.13,Net Banking,Delivered
+ORD1474,2023-02-19,CUST1023,Business Strategy,Books,Central,Indore,3,444.88,154.95,1334.64,464.85,869.79,65.17,Cash on Delivery,Delivered
+ORD1475,2023-10-20,CUST1270,Running Shoes,Clothing,North,Chandigarh,1,1366.81,566.97,1366.81,566.97,799.84,58.52,Net Banking,Returned
+ORD1476,2023-04-17,CUST1240,Cycling Gloves,Sports & Fitness,North,Amritsar,2,1895.67,873.2,3791.34,1746.4,2044.94,53.94,Net Banking,Delivered
+ORD1477,2023-11-12,CUST1021,Webcam HD,Electronics,Central,Raipur,3,4093.7,2287.33,12281.1,6861.99,5419.11,44.13,UPI,Cancelled
+ORD1478,2023-09-30,CUST1099,Laptop Stand,Electronics,North,Chandigarh,5,1026.32,676.11,5131.6,3380.55,1751.05,34.12,Net Banking,Delivered
+ORD1479,2023-02-24,CUST1235,Protein Powder,Sports & Fitness,Central,Nagpur,5,2296.74,1176.57,11483.7,5882.85,5600.85,48.77,Cash on Delivery,Delivered
+ORD1480,2023-03-22,CUST1227,Data Science Handbook,Books,South,Chennai,5,439.93,154.25,2199.65,771.25,1428.4,64.94,Cash on Delivery,Cancelled
+ORD1481,2023-06-15,CUST1289,Rice Cooker,Home & Kitchen,Central,Indore,3,2766.89,1646.26,8300.67,4938.78,3361.89,40.5,Cash on Delivery,Delivered
+ORD1482,2023-07-23,CUST1146,Protein Powder,Sports & Fitness,West,Ahmedabad,3,2891.62,1495.33,8674.86,4485.99,4188.87,48.29,Credit Card,Delivered
+ORD1483,2023-04-20,CUST1142,Yoga Mat,Sports & Fitness,Central,Nagpur,3,217.39,129.93,652.17,389.79,262.38,40.23,UPI,Delivered
+ORD1484,2023-07-07,CUST1120,Dumbbell Set,Sports & Fitness,North,Delhi,4,1194.84,562.48,4779.36,2249.92,2529.44,52.92,Cash on Delivery,Delivered
+ORD1485,2023-06-16,CUST1250,Blender,Home & Kitchen,North,Ludhiana,5,5547.35,3384.66,27736.75,16923.3,10813.45,38.99,Net Banking,Delivered
+ORD1486,2023-02-10,CUST1179,Resistance Bands,Sports & Fitness,Central,Indore,1,2245.21,1204.43,2245.21,1204.43,1040.78,46.36,Credit Card,Delivered
+ORD1487,2023-11-20,CUST1157,History of AI,Books,North,Chandigarh,5,756.19,298.76,3780.95,1493.8,2287.15,60.49,Net Banking,Delivered
+ORD1488,2023-01-26,CUST1295,Yoga Mat,Sports & Fitness,East,Bhubaneswar,3,1605.72,775.75,4817.16,2327.25,2489.91,51.69,Net Banking,Returned
+ORD1489,2023-06-22,CUST1293,Resistance Bands,Sports & Fitness,South,Kochi,3,2400.83,1133.68,7202.49,3401.04,3801.45,52.78,Credit Card,Returned
+ORD1490,2023-03-08,CUST1287,Mechanical Keyboard,Electronics,East,Kolkata,4,2807.02,1869.68,11228.08,7478.72,3749.36,33.39,Debit Card,Returned
+ORD1491,2023-05-07,CUST1137,Woolen Sweater,Clothing,West,Pune,5,1654.19,844.22,8270.95,4221.1,4049.85,48.96,Debit Card,Delivered
+ORD1492,2023-06-28,CUST1177,Cooking Recipes,Books,Central,Bhopal,1,602.05,218.86,602.05,218.86,383.19,63.65,Debit Card,Delivered
+ORD1493,2023-08-15,CUST1226,Yoga Mat,Sports & Fitness,East,Bhubaneswar,3,1924.42,1151.81,5773.26,3455.43,2317.83,40.15,Cash on Delivery,Delivered
+ORD1494,2023-02-27,CUST1076,USB-C Hub,Electronics,South,Hyderabad,2,3933.03,2666.26,7866.06,5332.52,2533.54,32.21,Credit Card,Delivered
+ORD1495,2023-04-18,CUST1105,Air Fryer,Home & Kitchen,East,Kolkata,3,2974.34,1497.32,8923.02,4491.96,4431.06,49.66,Cash on Delivery,Delivered
+ORD1496,2023-12-24,CUST1299,Cycling Gloves,Sports & Fitness,Central,Raipur,5,2242.79,1056.81,11213.95,5284.05,5929.9,52.88,Credit Card,Returned
+ORD1497,2023-11-13,CUST1239,Yoga Mat,Sports & Fitness,East,Bhubaneswar,1,994.24,565.1,994.24,565.1,429.14,43.16,UPI,Delivered
+ORD1498,2023-11-29,CUST1195,Bluetooth Speaker,Electronics,West,Ahmedabad,3,4401.84,2433.61,13205.52,7300.83,5904.69,44.71,Net Banking,Delivered
+ORD1499,2023-09-14,CUST1012,Resistance Bands,Sports & Fitness,East,Guwahati,5,1687.37,806.5,8436.85,4032.5,4404.35,52.2,Net Banking,Cancelled
+ORD1500,2023-01-10,CUST1182,USB-C Hub,Electronics,Central,Indore,3,2754.7,1822.67,8264.1,5468.01,2796.09,33.83,UPI,Delivered
+ORD1501,2023-01-16,CUST1116,Water Purifier,Home & Kitchen,Central,Indore,1,3940.86,2489.84,3940.86,2489.84,1451.02,36.82,Cash on Delivery,Delivered
+ORD1502,2023-12-14,CUST1214,Formal Shirt,Clothing,West,Pune,1,1904.76,910.68,1904.76,910.68,994.08,52.19,Cash on Delivery,Delivered
+ORD1503,2023-04-16,CUST1278,Running Shoes,Clothing,West,Ahmedabad,5,1023.43,492.61,5117.15,2463.05,2654.1,51.87,Debit Card,Cancelled
+ORD1504,2023-03-16,CUST1163,Running Shoes,Clothing,East,Bhubaneswar,4,2489.51,1360.18,9958.04,5440.72,4517.32,45.36,Cash on Delivery,Delivered
+ORD1505,2023-07-31,CUST1227,Bluetooth Speaker,Electronics,South,Hyderabad,2,3798.15,2525.07,7596.3,5050.14,2546.16,33.52,Net Banking,Delivered
+ORD1506,2023-11-10,CUST1291,Non-stick Pan,Home & Kitchen,South,Bangalore,2,1515.11,930.83,3030.22,1861.66,1168.56,38.56,Cash on Delivery,Delivered
+ORD1507,2023-12-19,CUST1258,Protein Powder,Sports & Fitness,Central,Nagpur,2,2123.66,1070.09,4247.32,2140.18,2107.14,49.61,Net Banking,Delivered
+ORD1508,2023-04-09,CUST1210,Water Bottle,Sports & Fitness,East,Bhubaneswar,4,1575.05,741.26,6300.2,2965.04,3335.16,52.94,Debit Card,Delivered
+ORD1509,2023-08-13,CUST1167,Laptop Stand,Electronics,West,Pune,2,3933.22,2202.29,7866.44,4404.58,3461.86,44.01,Cash on Delivery,Returned
+ORD1510,2023-06-10,CUST1293,Self Help Guide,Books,West,Surat,1,563.76,238.84,563.76,238.84,324.92,57.63,Net Banking,Cancelled
+ORD1511,2023-05-06,CUST1203,Yoga Mat,Sports & Fitness,Central,Bhopal,4,1478.32,859.89,5913.28,3439.56,2473.72,41.83,Cash on Delivery,Cancelled
+ORD1512,2023-06-05,CUST1086,Mechanical Keyboard,Electronics,Central,Bhopal,2,1880.19,1146.36,3760.38,2292.72,1467.66,39.03,UPI,Returned
+ORD1513,2023-11-27,CUST1257,Fiction Novel,Books,Central,Bhopal,5,741.21,273.9,3706.05,1369.5,2336.55,63.05,Net Banking,Delivered
+ORD1514,2023-04-02,CUST1104,Smart Watch,Electronics,Central,Nagpur,4,2418.66,1493.84,9674.64,5975.36,3699.28,38.24,Net Banking,Cancelled
+ORD1515,2023-02-28,CUST1044,Data Science Handbook,Books,East,Patna,2,630.02,200.68,1260.04,401.36,858.68,68.15,Net Banking,Delivered
+ORD1516,2023-03-29,CUST1077,Foam Roller,Sports & Fitness,Central,Nagpur,4,1739.97,794.45,6959.88,3177.8,3782.08,54.34,UPI,Cancelled
+ORD1517,2023-08-17,CUST1061,Running Shoes,Clothing,South,Bangalore,4,976.74,497.67,3906.96,1990.68,1916.28,49.05,UPI,Delivered
+ORD1518,2023-10-06,CUST1253,Winter Jacket,Clothing,North,Amritsar,1,1308.01,691.04,1308.01,691.04,616.97,47.17,Credit Card,Cancelled
+ORD1519,2023-11-04,CUST1281,Winter Jacket,Clothing,Central,Raipur,4,1201.33,494.84,4805.32,1979.36,2825.96,58.81,Credit Card,Delivered
+ORD1520,2023-03-16,CUST1153,Water Purifier,Home & Kitchen,North,Chandigarh,2,801.85,442.9,1603.7,885.8,717.9,44.77,Credit Card,Cancelled
+ORD1521,2023-05-26,CUST1294,Coffee Maker,Home & Kitchen,North,Delhi,4,5964.54,3126.61,23858.16,12506.44,11351.72,47.58,Cash on Delivery,Cancelled
+ORD1522,2023-07-08,CUST1219,Dumbbell Set,Sports & Fitness,West,Ahmedabad,1,459.75,227.53,459.75,227.53,232.22,50.51,Net Banking,Delivered
+ORD1523,2023-06-18,CUST1269,Resistance Bands,Sports & Fitness,East,Guwahati,2,540.67,313.0,1081.34,626.0,455.34,42.11,Cash on Delivery,Returned
+ORD1524,2023-09-28,CUST1148,Winter Jacket,Clothing,Central,Bhopal,1,1556.01,850.99,1556.01,850.99,705.02,45.31,Credit Card,Returned
+ORD1525,2023-11-20,CUST1093,Cooking Recipes,Books,East,Patna,2,567.57,212.53,1135.14,425.06,710.08,62.55,Net Banking,Returned
+ORD1526,2023-03-02,CUST1213,Protein Powder,Sports & Fitness,East,Bhubaneswar,1,529.98,275.45,529.98,275.45,254.53,48.03,Debit Card,Cancelled
+ORD1527,2023-11-24,CUST1131,Python Programming,Books,East,Patna,5,682.63,226.53,3413.15,1132.65,2280.5,66.82,Debit Card,Delivered
+ORD1528,2023-07-22,CUST1015,Laptop Stand,Electronics,East,Patna,1,1099.88,659.92,1099.88,659.92,439.96,40.0,Cash on Delivery,Cancelled
+ORD1529,2023-11-27,CUST1080,Winter Jacket,Clothing,East,Patna,4,2314.56,1202.62,9258.24,4810.48,4447.76,48.04,Debit Card,Returned
+ORD1530,2023-12-14,CUST1275,Cooking Recipes,Books,West,Surat,1,700.06,241.45,700.06,241.45,458.61,65.51,UPI,Cancelled
+ORD1531,2023-01-16,CUST1274,USB-C Hub,Electronics,Central,Indore,3,890.34,509.63,2671.02,1528.89,1142.13,42.76,UPI,Returned
+ORD1532,2023-01-17,CUST1045,Casual Sneakers,Clothing,South,Bangalore,3,1850.59,827.54,5551.77,2482.62,3069.15,55.28,UPI,Returned
+ORD1533,2023-02-27,CUST1104,Self Help Guide,Books,East,Guwahati,3,328.68,113.51,986.04,340.53,645.51,65.46,UPI,Delivered
+ORD1534,2023-06-24,CUST1159,Gaming Mouse,Electronics,Central,Bhopal,4,4580.81,2625.32,18323.24,10501.28,7821.96,42.69,Net Banking,Cancelled
+ORD1535,2023-09-25,CUST1160,Non-stick Pan,Home & Kitchen,North,Chandigarh,2,4484.14,2551.05,8968.28,5102.1,3866.18,43.11,Credit Card,Delivered
+ORD1536,2023-06-09,CUST1160,Bluetooth Speaker,Electronics,East,Guwahati,1,1052.65,699.94,1052.65,699.94,352.71,33.51,Credit Card,Cancelled
+ORD1537,2023-08-14,CUST1077,Formal Shirt,Clothing,South,Chennai,3,907.63,406.5,2722.89,1219.5,1503.39,55.21,Credit Card,Delivered
+ORD1538,2023-10-05,CUST1164,Sports Shorts,Clothing,North,Delhi,5,1530.18,635.57,7650.9,3177.85,4473.05,58.46,UPI,Cancelled
+ORD1539,2023-06-23,CUST1026,Non-stick Pan,Home & Kitchen,East,Bhubaneswar,2,890.84,527.37,1781.68,1054.74,726.94,40.8,Cash on Delivery,Returned
+ORD1540,2023-07-20,CUST1229,Men's T-Shirt,Clothing,West,Mumbai,1,1142.92,471.93,1142.92,471.93,670.99,58.71,Debit Card,Cancelled
+ORD1541,2023-10-01,CUST1291,Jump Rope,Sports & Fitness,East,Patna,2,2195.12,1208.7,4390.24,2417.4,1972.84,44.94,Credit Card,Returned
+ORD1542,2023-08-27,CUST1115,Women's Jeans,Clothing,West,Mumbai,4,981.86,487.65,3927.44,1950.6,1976.84,50.33,Net Banking,Delivered
+ORD1543,2023-06-16,CUST1016,Sports Shorts,Clothing,East,Guwahati,2,1838.15,918.67,3676.3,1837.34,1838.96,50.02,Net Banking,Returned
+ORD1544,2023-06-28,CUST1066,Gaming Mouse,Electronics,North,Amritsar,4,2628.46,1512.99,10513.84,6051.96,4461.88,42.44,Cash on Delivery,Cancelled
+ORD1545,2023-06-04,CUST1206,Resistance Bands,Sports & Fitness,West,Mumbai,3,1756.22,808.98,5268.66,2426.94,2841.72,53.94,Cash on Delivery,Returned
+ORD1546,2023-02-03,CUST1221,Foam Roller,Sports & Fitness,South,Chennai,5,644.26,336.53,3221.3,1682.65,1538.65,47.76,UPI,Delivered
+ORD1547,2023-12-31,CUST1059,Cooking Recipes,Books,Central,Nagpur,2,596.57,185.94,1193.14,371.88,821.26,68.83,Cash on Delivery,Returned
+ORD1548,2023-02-05,CUST1195,Water Bottle,Sports & Fitness,East,Kolkata,4,692.29,410.79,2769.16,1643.16,1126.0,40.66,Cash on Delivery,Delivered
+ORD1549,2023-11-22,CUST1077,Vacuum Cleaner,Home & Kitchen,North,Delhi,2,4992.68,3160.81,9985.36,6321.62,3663.74,36.69,Credit Card,Delivered
+ORD1550,2023-06-03,CUST1223,Fiction Novel,Books,West,Surat,2,322.4,139.15,644.8,278.3,366.5,56.84,Cash on Delivery,Delivered
+ORD1551,2023-03-07,CUST1190,Coffee Maker,Home & Kitchen,Central,Bhopal,5,5924.32,3321.35,29621.6,16606.75,13014.85,43.94,UPI,Delivered
+ORD1552,2023-05-01,CUST1202,Yoga Mat,Sports & Fitness,North,Amritsar,1,2610.49,1513.7,2610.49,1513.7,1096.79,42.01,Net Banking,Cancelled
+ORD1553,2023-09-01,CUST1285,Toaster Oven,Home & Kitchen,West,Surat,4,3497.15,2096.1,13988.6,8384.4,5604.2,40.06,Debit Card,Delivered
+ORD1554,2023-03-10,CUST1009,Cooking Recipes,Books,West,Pune,3,797.47,319.39,2392.41,958.17,1434.24,59.95,Credit Card,Delivered
+ORD1555,2023-08-22,CUST1093,Woolen Sweater,Clothing,West,Pune,1,600.88,312.99,600.88,312.99,287.89,47.91,Cash on Delivery,Returned
+ORD1556,2023-11-06,CUST1256,History of AI,Books,Central,Raipur,4,412.18,135.14,1648.72,540.56,1108.16,67.21,Credit Card,Cancelled
+ORD1557,2023-12-27,CUST1298,Sports Shorts,Clothing,West,Ahmedabad,1,2451.11,1189.33,2451.11,1189.33,1261.78,51.48,UPI,Delivered
+ORD1558,2023-11-09,CUST1242,Data Science Handbook,Books,South,Hyderabad,4,509.17,192.72,2036.68,770.88,1265.8,62.15,Credit Card,Delivered
+ORD1559,2023-08-21,CUST1294,Laptop Stand,Electronics,Central,Bhopal,3,2953.15,1629.01,8859.45,4887.03,3972.42,44.84,Cash on Delivery,Returned
+ORD1560,2023-11-02,CUST1134,Toaster Oven,Home & Kitchen,East,Patna,3,1420.29,858.22,4260.87,2574.66,1686.21,39.57,UPI,Cancelled
+ORD1561,2023-11-16,CUST1249,Gaming Mouse,Electronics,Central,Nagpur,5,826.13,577.1,4130.65,2885.5,1245.15,30.14,Credit Card,Delivered
+ORD1562,2023-05-21,CUST1058,Smart Watch,Electronics,Central,Bhopal,3,1708.02,1097.18,5124.06,3291.54,1832.52,35.76,UPI,Delivered
+ORD1563,2023-12-25,CUST1093,Dumbbell Set,Sports & Fitness,Central,Nagpur,4,1234.35,587.93,4937.4,2351.72,2585.68,52.37,Debit Card,Returned
+ORD1564,2023-09-11,CUST1122,Yoga Mat,Sports & Fitness,East,Kolkata,2,1866.52,1070.0,3733.04,2140.0,1593.04,42.67,Net Banking,Returned
+ORD1565,2023-03-01,CUST1238,Business Strategy,Books,South,Hyderabad,1,584.36,241.53,584.36,241.53,342.83,58.67,Credit Card,Delivered
+ORD1566,2023-07-19,CUST1075,Marketing Basics,Books,East,Guwahati,5,339.2,136.54,1696.0,682.7,1013.3,59.75,Net Banking,Delivered
+ORD1567,2023-09-29,CUST1273,Foam Roller,Sports & Fitness,North,Amritsar,4,1268.61,630.95,5074.44,2523.8,2550.64,50.26,Credit Card,Delivered
+ORD1568,2023-05-11,CUST1237,Toaster Oven,Home & Kitchen,Central,Indore,3,1985.79,1231.88,5957.37,3695.64,2261.73,37.97,Cash on Delivery,Returned
+ORD1569,2023-01-05,CUST1211,Winter Jacket,Clothing,Central,Indore,2,988.19,396.84,1976.38,793.68,1182.7,59.84,Credit Card,Delivered
+ORD1570,2023-01-18,CUST1048,Bluetooth Speaker,Electronics,West,Ahmedabad,2,3790.1,2227.76,7580.2,4455.52,3124.68,41.22,Credit Card,Cancelled
+ORD1571,2023-07-12,CUST1057,USB-C Hub,Electronics,Central,Bhopal,1,979.1,627.31,979.1,627.31,351.79,35.93,Cash on Delivery,Delivered
+ORD1572,2023-05-22,CUST1132,Sports Shorts,Clothing,East,Guwahati,1,1704.32,917.61,1704.32,917.61,786.71,46.16,Net Banking,Delivered
+ORD1573,2023-05-13,CUST1226,Women's Jeans,Clothing,East,Kolkata,4,1153.9,633.95,4615.6,2535.8,2079.8,45.06,UPI,Delivered
+ORD1574,2023-10-04,CUST1055,Gaming Mouse,Electronics,South,Kochi,2,3439.13,1947.46,6878.26,3894.92,2983.34,43.37,Net Banking,Delivered
+ORD1575,2023-08-17,CUST1077,Fiction Novel,Books,North,Delhi,1,241.25,98.7,241.25,98.7,142.55,59.09,Credit Card,Returned
+ORD1576,2023-10-22,CUST1252,Wireless Earbuds,Electronics,West,Ahmedabad,2,3679.24,2522.83,7358.48,5045.66,2312.82,31.43,Credit Card,Cancelled
+ORD1577,2023-12-19,CUST1291,History of AI,Books,West,Mumbai,5,334.51,119.64,1672.55,598.2,1074.35,64.23,Net Banking,Delivered
+ORD1578,2023-11-28,CUST1274,Jump Rope,Sports & Fitness,East,Patna,4,353.55,211.97,1414.2,847.88,566.32,40.05,Credit Card,Delivered
+ORD1579,2023-07-16,CUST1200,Coffee Maker,Home & Kitchen,West,Ahmedabad,2,1470.4,743.87,2940.8,1487.74,1453.06,49.41,Debit Card,Delivered
+ORD1580,2023-04-09,CUST1123,Webcam HD,Electronics,West,Mumbai,4,3834.43,2189.43,15337.72,8757.72,6580.0,42.9,Credit Card,Cancelled
+ORD1581,2023-08-19,CUST1174,History of AI,Books,North,Amritsar,4,519.36,220.8,2077.44,883.2,1194.24,57.49,Credit Card,Delivered
+ORD1582,2023-09-25,CUST1077,Webcam HD,Electronics,North,Ludhiana,1,1530.38,991.8,1530.38,991.8,538.58,35.19,Net Banking,Cancelled
+ORD1583,2023-11-13,CUST1067,Protein Powder,Sports & Fitness,North,Delhi,2,1567.91,710.04,3135.82,1420.08,1715.74,54.71,Credit Card,Delivered
+ORD1584,2023-10-30,CUST1059,Smart Watch,Electronics,North,Amritsar,1,2606.21,1500.14,2606.21,1500.14,1106.07,42.44,Credit Card,Delivered
+ORD1585,2023-12-14,CUST1062,Self Help Guide,Books,North,Chandigarh,4,401.41,170.75,1605.64,683.0,922.64,57.46,Net Banking,Delivered
+ORD1586,2023-03-03,CUST1213,Dumbbell Set,Sports & Fitness,East,Bhubaneswar,1,1859.64,930.43,1859.64,930.43,929.21,49.97,UPI,Delivered
+ORD1587,2023-03-10,CUST1193,Formal Shirt,Clothing,Central,Nagpur,4,835.02,406.9,3340.08,1627.6,1712.48,51.27,Credit Card,Cancelled
+ORD1588,2023-12-28,CUST1214,Men's T-Shirt,Clothing,West,Mumbai,1,314.89,169.7,314.89,169.7,145.19,46.11,Cash on Delivery,Delivered
+ORD1589,2023-03-31,CUST1093,Business Strategy,Books,South,Chennai,3,512.85,185.55,1538.55,556.65,981.9,63.82,Cash on Delivery,Delivered
+ORD1590,2023-03-02,CUST1186,Data Science Handbook,Books,East,Patna,4,201.74,67.65,806.96,270.6,536.36,66.47,Cash on Delivery,Delivered
+ORD1591,2023-03-18,CUST1091,Protein Powder,Sports & Fitness,West,Pune,3,347.59,162.29,1042.77,486.87,555.9,53.31,Net Banking,Returned
+ORD1592,2023-11-12,CUST1054,Men's T-Shirt,Clothing,North,Amritsar,3,760.1,332.7,2280.3,998.1,1282.2,56.23,Net Banking,Delivered
+ORD1593,2023-05-01,CUST1297,Smart Watch,Electronics,South,Bangalore,4,2864.58,1605.97,11458.32,6423.88,5034.44,43.94,Net Banking,Cancelled
+ORD1594,2023-02-20,CUST1103,Toaster Oven,Home & Kitchen,South,Hyderabad,2,4783.36,2625.68,9566.72,5251.36,4315.36,45.11,Debit Card,Returned
+ORD1595,2023-03-16,CUST1233,Self Help Guide,Books,North,Ludhiana,5,489.64,212.29,2448.2,1061.45,1386.75,56.64,Debit Card,Cancelled
+ORD1596,2023-05-19,CUST1066,Casual Sneakers,Clothing,East,Bhubaneswar,4,1882.61,931.52,7530.44,3726.08,3804.36,50.52,Debit Card,Delivered
+ORD1597,2023-03-29,CUST1152,Wireless Earbuds,Electronics,East,Bhubaneswar,1,4346.27,2689.41,4346.27,2689.41,1656.86,38.12,UPI,Delivered
+ORD1598,2023-02-14,CUST1251,Dumbbell Set,Sports & Fitness,Central,Nagpur,5,2915.38,1685.82,14576.9,8429.1,6147.8,42.17,Net Banking,Cancelled
+ORD1599,2023-05-07,CUST1223,Woolen Sweater,Clothing,West,Ahmedabad,1,1905.04,972.38,1905.04,972.38,932.66,48.96,Debit Card,Delivered
+ORD1600,2023-01-23,CUST1259,Protein Powder,Sports & Fitness,Central,Nagpur,5,2714.11,1391.43,13570.55,6957.15,6613.4,48.73,Credit Card,Returned
+ORD1601,2023-02-20,CUST1124,Mechanical Keyboard,Electronics,Central,Raipur,4,4161.75,2723.86,16647.0,10895.44,5751.56,34.55,Net Banking,Returned
+ORD1602,2023-02-16,CUST1157,Wireless Earbuds,Electronics,West,Pune,2,2175.98,1274.82,4351.96,2549.64,1802.32,41.41,Credit Card,Returned
+ORD1603,2023-12-27,CUST1190,Woolen Sweater,Clothing,Central,Bhopal,4,1319.27,555.14,5277.08,2220.56,3056.52,57.92,Net Banking,Delivered
+ORD1604,2023-05-19,CUST1295,Python Programming,Books,North,Ludhiana,3,517.55,178.29,1552.65,534.87,1017.78,65.55,Cash on Delivery,Cancelled
+ORD1605,2023-07-06,CUST1197,Women's Jeans,Clothing,Central,Indore,1,1431.42,767.96,1431.42,767.96,663.46,46.35,Credit Card,Delivered
+ORD1606,2023-12-27,CUST1105,Vacuum Cleaner,Home & Kitchen,Central,Bhopal,3,2514.38,1501.65,7543.14,4504.95,3038.19,40.28,Credit Card,Cancelled
+ORD1607,2023-12-26,CUST1165,Formal Shirt,Clothing,South,Bangalore,4,1921.24,985.29,7684.96,3941.16,3743.8,48.72,Debit Card,Delivered
+ORD1608,2023-08-20,CUST1270,Blender,Home & Kitchen,Central,Raipur,3,798.53,443.92,2395.59,1331.76,1063.83,44.41,Net Banking,Cancelled
+ORD1609,2023-12-21,CUST1235,Gaming Mouse,Electronics,Central,Indore,4,3331.19,2231.85,13324.76,8927.4,4397.36,33.0,Credit Card,Delivered
+ORD1610,2023-03-26,CUST1076,Bluetooth Speaker,Electronics,West,Pune,3,4815.33,2704.01,14445.99,8112.03,6333.96,43.85,UPI,Delivered
+ORD1611,2023-03-09,CUST1216,Business Strategy,Books,South,Bangalore,3,448.92,180.63,1346.76,541.89,804.87,59.76,Net Banking,Delivered
+ORD1612,2023-09-24,CUST1297,Python Programming,Books,East,Bhubaneswar,1,212.22,89.2,212.22,89.2,123.02,57.97,UPI,Returned
+ORD1613,2023-06-06,CUST1117,Rice Cooker,Home & Kitchen,West,Surat,4,2171.45,1128.7,8685.8,4514.8,4171.0,48.02,Debit Card,Delivered
+ORD1614,2023-03-27,CUST1275,Cooking Recipes,Books,East,Kolkata,2,410.87,151.36,821.74,302.72,519.02,63.16,Cash on Delivery,Delivered
+ORD1615,2023-06-12,CUST1226,Non-stick Pan,Home & Kitchen,South,Chennai,2,1807.48,914.9,3614.96,1829.8,1785.16,49.38,Cash on Delivery,Delivered
+ORD1616,2023-06-26,CUST1230,Rice Cooker,Home & Kitchen,South,Chennai,5,4388.24,2632.21,21941.2,13161.05,8780.15,40.02,Debit Card,Delivered
+ORD1617,2023-09-13,CUST1164,Dumbbell Set,Sports & Fitness,Central,Indore,1,2776.22,1417.77,2776.22,1417.77,1358.45,48.93,Debit Card,Returned
+ORD1618,2023-10-21,CUST1227,Men's T-Shirt,Clothing,Central,Indore,3,1341.6,594.96,4024.8,1784.88,2239.92,55.65,Debit Card,Cancelled
+ORD1619,2023-01-13,CUST1113,Coffee Maker,Home & Kitchen,West,Mumbai,2,4228.05,2188.15,8456.1,4376.3,4079.8,48.25,Net Banking,Cancelled
+ORD1620,2023-09-27,CUST1101,Cooking Recipes,Books,North,Amritsar,1,563.89,185.67,563.89,185.67,378.22,67.07,Debit Card,Delivered
